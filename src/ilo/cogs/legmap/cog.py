@@ -15,7 +15,17 @@ class CogLegmap(Cog):
     locale = Locale(__file__)
 
     @locale.command("map")
-    async def slash_map(self, ctx):
+    @locale.option("mode",
+        default="control",
+        choices=[
+            "control",
+            "population",
+            "left",
+            "macroregions",
+            "adjacencies",
+        ]
+    )
+    async def slash_map(self, ctx, mode):
         await ctx.respond("Generating map. Please wait...")
-        map_path = generate_leg_map("CONTROL")
-        await ctx.send(file=File(map_path))
+        map_path = generate_leg_map(mode.upper())
+        await ctx.send(mode, file=File(map_path))

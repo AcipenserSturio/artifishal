@@ -1,3 +1,4 @@
 {
-	"map": "Generate the current map of the Legacy."
+	"map": "Generate the current map of the Legacy.",
+	"mode": "Select map mode."
 }
