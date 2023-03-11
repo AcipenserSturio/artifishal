@@ -9,7 +9,7 @@ RUN pdm install --prod --no-lock --no-editable
 
 FROM python:3.9-slim AS bot
 RUN apt-get update -y && \
-    apt-get install -y --no-install-recommends
+    apt-get install -y --no-install-recommends && \
     apt-get autoclean -y && \
     apt-get autoremove -y
 
