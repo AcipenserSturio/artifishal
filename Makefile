@@ -1,7 +1,7 @@
-MAIN=podman
-SUB=podman-compose
-# MAIN=docker
-# SUB=docker compose
+#MAIN=podman
+#SUB=podman-compose
+MAIN=docker
+SUB=docker compose
 
 init:
 	pdm install
@@ -17,7 +17,7 @@ up:
 	${SUB} up -d
 
 local:
-	pdm run python -m ilo
+	pdm run python -m artifishal
 
 stop:
 	${SUB} stop

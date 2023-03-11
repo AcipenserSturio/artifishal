@@ -4,9 +4,9 @@ import os
 from discord.ext import commands
 from dotenv import load_dotenv
 
-from ilo.log_config import configure_logger
+from artifishal.log_config import configure_logger
 
-LOG = logging.getLogger("ilo")
+LOG = logging.getLogger("artifishal")
 
 # from discord import Intents
 
@@ -50,11 +50,11 @@ def load_extensions():
         if os.path.isdir(path):
             if "__init__.py" in os.listdir(path):
                 LOG.info("Loading cog %s", cogname)
-                bot.load_extension(f"ilo.cogs.{cogname}")
+                bot.load_extension(f"artifishal.cogs.{cogname}")
 
 
 if __name__ == "__main__":
-    configure_logger("ilo", log_level=LOG_LEVEL_INT)
+    configure_logger("artifishal", log_level=LOG_LEVEL_INT)
     configure_logger("discord", log_level=logging.WARNING)
     load_extensions()
     bot.run(TOKEN, reconnect=True)

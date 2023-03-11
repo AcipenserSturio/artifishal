@@ -3,9 +3,9 @@ import random
 from discord import File
 from discord.ext.commands import Cog
 
-from ilo.cog_utils import Locale
+from artifishal.cog_utils import Locale
 
-from ilo.cogs.legmap.legmap import generate_leg_map
+from artifishal.cogs.legmap.legmap import generate_leg_map
 
 
 class CogLegmap(Cog):

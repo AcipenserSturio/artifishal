@@ -9,16 +9,13 @@ RUN pdm install --prod --no-lock --no-editable
 
 FROM python:3.9-slim AS bot
 RUN apt-get update -y && \
-    apt-get install -y --no-install-recommends \
-    libfribidi0 \
-    libraqm0 && \
+    apt-get install -y --no-install-recommends
     apt-get autoclean -y && \
     apt-get autoremove -y
 
 ENV PYTHONPATH=/project/pkgs
 
 COPY src/ /project/pkgs/
-COPY fonts/ /project/fonts
 # this is a volume oops
 # COPY userdata/ /project/userdata
 
