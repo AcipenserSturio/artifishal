@@ -22,4 +22,4 @@ COPY src/ /project/pkgs/
 # this will change most often
 COPY --from=builder /project/__pypackages__/3.9/lib /project/pkgs
 WORKDIR /project
-ENTRYPOINT ["python", "-m", "ilo"]
+ENTRYPOINT ["python", "-m", "artifishal"]
