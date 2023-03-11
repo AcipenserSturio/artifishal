@@ -4,9 +4,9 @@ from pathlib import Path
 data = Path(__file__).parent / "data"
 
 PATH_LEGMAP_MASK = str(data / "mask.png")
-PATH_LEGMAP_MAP_1 = str(data / "template_control.png")
+PATH_LEGMAP_MAP_1 = str(data / "template_other.png")
 PATH_LEGMAP_MAP_2 = str(data / "template_gradient.png")
-PATH_LEGMAP_MAP_3 = str(data / "template_other.png")
+PATH_LEGMAP_MAP_3 = str(data / "template_control.png")
 PATH_LEGMAP_OUTPUT = str(data / "generated_map.png")
 PATH_LEGMAP_TEMP = str(data / "temp.csv")
 
