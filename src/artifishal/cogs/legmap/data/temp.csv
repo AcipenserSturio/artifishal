@@ -1,0 +1,1316 @@
+Region 1,,,Region 2,,
+Abbr.,Name,Macroregion,Abbr.,Name,Macroregion
+HOK,Hokkaido,East Asia,THK,Tohoku,East Asia
+IAN,Andaman and Nicobar Islands,South Asia,LMM,Lower Burma,Southeast Asia
+IAN,Andaman and Nicobar Islands,South Asia,ACI,Aceh,Southeast Asia
+JII,East Java,Southeast Asia,BAI,Bali,Southeast Asia
+BAI,Bali,Southeast Asia,NBI,West Nusa Tenggara,Southeast Asia
+NBI,West Nusa Tenggara,Southeast Asia,NTI,East Nusa Tenggara,Southeast Asia
+NTI,East Nusa Tenggara,Southeast Asia,TLS,East Timor,Southeast Asia
+TLS,East Timor,Southeast Asia,MAI,Maluku,Southeast Asia
+MAI,Maluku,Southeast Asia,PAI,Papua,Southeast Asia
+SAI,North Sulawesi,Southeast Asia,MUI,North Maluku,Southeast Asia
+LAI,Lampung,Southeast Asia,BTI,Banten,Southeast Asia
+BBI,Bangka Belitung Islands,Southeast Asia,KBI,West Kalimantan,Southeast Asia
+BBI,Bangka Belitung Islands,Southeast Asia,SSI,South Sumatra,Southeast Asia
+KRI,Riau Islands,Southeast Asia,RII,Riau,Southeast Asia
+MUI,North Maluku,Southeast Asia,PAI,Papua,Southeast Asia
+PAI,Papua,Southeast Asia,PNG,Papua New Guinea,Oceania
+PAI,Papua,Southeast Asia,PLW,Palau,Oceania
+PNG,Papua New Guinea,Oceania,QLD,Queensland,Australia and New Zealand
+PNG,Papua New Guinea,Oceania,SLB,Solomon Islands,Oceania
+TAS,Tasmania,Australia and New Zealand,VIC,Victoria,Australia and New Zealand
+TAS,Tasmania,Australia and New Zealand,NZ,New Zealand,Australia and New Zealand
+NSW,New South Wales,Australia and New Zealand,NFK,Norfolk Island,Australia and New Zealand
+NZ,New Zealand,Australia and New Zealand,NFK,Norfolk Island,Australia and New Zealand
+SUZ,Sinai & Suez,Northern Africa,PSE,Palestine,West Asia
+NCY,Northern Cyprus,West Asia,MTR,Mediterranean Turkey,West Asia
+ESS,East Spain,Southern Europe,BIS,Balearic Islands,Southern Europe
+SOI,South Italy,Southern Europe,SIC,Sicily,Southern Europe
+SIC,Sicily,Southern Europe,MLT,Malta,Southern Europe
+CTI,Central Italy,Southern Europe,COS,Corsica,Western Europe
+COS,Corsica,Western Europe,SAR,Sardinia,Southern Europe
+GOT,Götaland,Northern Europe,DEN,Denmark,Northern Europe
+ESS,East Spain,Southern Europe,IBS,(Missing),(Missing)
+QAT,Qatar,West Asia,BHR,Bahrain,West Asia
+NAJ,Najd,West Asia,BHR,Bahrain,West Asia
+ILD,Lakshadweep,South Asia,IKL,Kerala,South Asia
+BVI,British Virgin Islands,Caribbean,AIA,Anguilla,Caribbean
+AZ,Arizona,Western United States,CO,Colorado,Western United States
+SK,Saskatchewan,Canada,NU,Nunavut,Canada
+GRL,Greenland,Arctica and Antarctica,NU,Nunavut,Canada
+GRL,Greenland,Arctica and Antarctica,ISL,Iceland,Northern Europe
+SJM,Svalbard & Jan Mayen,Arctica and Antarctica,NOR,Norway,Northern Europe
+ATA,Antarctica,Arctica and Antarctica,CLS,Southern Chile,South South America
+ATA,Antarctica,Arctica and Antarctica,SSG,South Georgia and the South Sandwich Islands,South South America
+NB,New Brunswick,Canada,PE,Prince Edward Island,Canada
+UVI,U.S. Virgin Islands,Caribbean,PR,Puerto Rico,Caribbean
+DOM,Dominican Republic,Caribbean,PR,Puerto Rico,Caribbean
+HAI,Haiti,Caribbean,CUB,Cuba,Caribbean
+JAM,Jamaica,Caribbean,CUB,Cuba,Caribbean
+JAM,Jamaica,Caribbean,CYI,Cayman Islands,Caribbean
+VNC,Venezuela Occidental,North South America,ABW,Aruba,Caribbean
+VNC,Venezuela Occidental,North South America,CUW,Curacao,Caribbean
+ABW,Aruba,Caribbean,CUW,Curacao,Caribbean
+VNM,Metropolitan Venezuela,North South America,BES,"Bonaire, Sint Eustatius and Saba",Caribbean
+CUW,Curacao,Caribbean,BES,"Bonaire, Sint Eustatius and Saba",Caribbean
+BES,"Bonaire, Sint Eustatius and Saba",Caribbean,KNA,Saint Kitts and Nevis,Caribbean
+KNA,Saint Kitts and Nevis,Caribbean,ATG,Antigua and Barbuda,Caribbean
+ATG,Antigua and Barbuda,Caribbean,MSR,Montserrat,Caribbean
+MSR,Montserrat,Caribbean,GLP,Guadaloupe,Caribbean
+TTO,Trinidad and Tobago,Caribbean,VNO,Venezuela Oriente,North South America
+TTO,Trinidad and Tobago,Caribbean,GRD,Grenada,Caribbean
+HOK,Hokkaido,East Asia,FER,Far Eastern Russia,North Asia
+DJI,Djibouti,Eastern Africa,NYE,North Yemen,West Asia
+SIR,Siberian Russia,North Asia,FER,Far Eastern Russia,North Asia
+SIR,Siberian Russia,North Asia,KAZ,Kazakhstan,Central Asia
+RIF,Rif,Northern Africa,SUS,South Spain,Southern Europe
+MAT,Moroccan Atlas,Northern Africa,CNS,Canary Islands,Southern Europe
+FRO,Faroe Islands,Northern Europe,ISL,Iceland,Northern Europe
+FRO,Faroe Islands,Northern Europe,SCT,Scotland,Northern Europe
+FLK,Falkland Islands,South South America,PTA,Patagonia,South South America
+FLK,Falkland Islands,South South America,SSG,South Georgia and the South Sandwich Islands,South South America
+NIR,Northern Ireland,Northern Europe,SCT,Scotland,Northern Europe
+IOM,Isle of Man,Northern Europe,SCT,Scotland,Northern Europe
+NMD,Normandy,Western Europe,BCI,British Channel Islands,Northern Europe
+SGP,Singapore,Southeast Asia,KRI,Riau Islands,Southeast Asia
+KBI,West Kalimantan,Southeast Asia,KRI,Riau Islands,Southeast Asia
+KII,East Kalimantan,Southeast Asia,STI,Central Sulawesi,Southeast Asia
+KSI,South Kalimantan,Southeast Asia,JII,East Java,Southeast Asia
+MUI,North Maluku,Southeast Asia,STI,Central Sulawesi,Southeast Asia
+MUI,North Maluku,Southeast Asia,MAI,Maluku,Southeast Asia
+SNI,South Sulawesi,Southeast Asia,NTI,East Nusa Tenggara,Southeast Asia
+FL,Florida,Southern United States,CUB,Cuba,Caribbean
+FL,Florida,Southern United States,BHS,The Bahamas,Caribbean
+CUB,Cuba,Caribbean,BHS,The Bahamas,Caribbean
+CUB,Cuba,Caribbean,CYI,Cayman Islands,Caribbean
+HDF,Hauts-de-France,Western Europe,SEE,South East England,Northern Europe
+AK,Alaska,Western United States,FER,Far Eastern Russia,North Asia
+AK,Alaska,Western United States,HI,Hawaii,Western United States
+KYS,Kyushu,East Asia,RYK,Ryukyu,East Asia
+KYS,Kyushu,East Asia,SGS,South Gyeongsang,East Asia
+RYK,Ryukyu,East Asia,TWN,Northern Taiwan,East Asia
+TWN,Northern Taiwan,East Asia,TWS,Southern Taiwan,East Asia
+TWS,Southern Taiwan,East Asia,FUJ,Fujian,East Asia
+TWS,Southern Taiwan,East Asia,NLZ,Northern Luzon,Southeast Asia
+GND,Guangdong,East Asia,HIN,Hainan,East Asia
+BRN,Brunei,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
+KII,East Kalimantan,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
+KUI,North Kalimantan,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
+KBI,West Kalimantan,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
+WMY,West Malaya,Southeast Asia,EMY,East Malaya,Southeast Asia
+EMY,East Malaya,Southeast Asia,THS,Southern Thailand,Southeast Asia
+SMY,Sabah & Sarawak,Southeast Asia,BRN,Brunei,Southeast Asia
+QLD,Queensland,Australia and New Zealand,NSW,New South Wales,Australia and New Zealand
+QLD,Queensland,Australia and New Zealand,NTA,Northern Territory,Australia and New Zealand
+QLD,Queensland,Australia and New Zealand,SAU,South Australia,Australia and New Zealand
+NSW,New South Wales,Australia and New Zealand,SAU,South Australia,Australia and New Zealand
+NSW,New South Wales,Australia and New Zealand,ACT,Australian Capital Territory,Australia and New Zealand
+NSW,New South Wales,Australia and New Zealand,VIC,Victoria,Australia and New Zealand
+SAU,South Australia,Australia and New Zealand,NTA,Northern Territory,Australia and New Zealand
+SAU,South Australia,Australia and New Zealand,WAU,Western Australia,Australia and New Zealand
+SAU,South Australia,Australia and New Zealand,VIC,Victoria,Australia and New Zealand
+NTA,Northern Territory,Australia and New Zealand,WAU,Western Australia,Australia and New Zealand
+PLW,Palau,Oceania,FSM,Federated States of Micronesia,Oceania
+FSM,Federated States of Micronesia,Oceania,GUM,Guam,Oceania
+FSM,Federated States of Micronesia,Oceania,MHL,Marshall Islands,Oceania
+FSM,Federated States of Micronesia,Oceania,PNG,Papua New Guinea,Oceania
+GUM,Guam,Oceania,NMI,Northern Mariana Islands,Oceania
+NMI,Northern Mariana Islands,Oceania,KNT,Kanto,East Asia
+MHL,Marshall Islands,Oceania,KIR,Kiribati,Oceania
+MHL,Marshall Islands,Oceania,UMI,United States Minor Outlying Islands,Oceania
+UMI,United States Minor Outlying Islands,Oceania,HI,Hawaii,Western United States
+UMI,United States Minor Outlying Islands,Oceania,KIR,Kiribati,Oceania
+SLB,Solomon Islands,Oceania,NCL,New Caledonia,Oceania
+SLB,Solomon Islands,Oceania,VUT,Vanuatu,Oceania
+FJI,Fiji,Oceania,NCL,New Caledonia,Oceania
+FJI,Fiji,Oceania,VUT,Vanuatu,Oceania
+VUT,Vanuatu,Oceania,NCL,New Caledonia,Oceania
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+AB,Alberta,Canada,SK,Saskatchewan,Canada
+AB,Alberta,Canada,BC,British Columbia,Canada
+AB,Alberta,Canada,NWT,Northwest Territories,Canada
+AB,Alberta,Canada,MT,Montana,Western United States
+BC,British Columbia,Canada,AK,Alaska,Western United States
+BC,British Columbia,Canada,NWT,Northwest Territories,Canada
+BC,British Columbia,Canada,WA,Washington,Western United States
+BC,British Columbia,Canada,YT,Yukon,Canada
+BC,British Columbia,Canada,ID,Idaho,Western United States
+BC,British Columbia,Canada,MT,Montana,Western United States
+MB,Manitoba,Canada,SK,Saskatchewan,Canada
+MB,Manitoba,Canada,ON,Ontario,Canada
+MB,Manitoba,Canada,NU,Nunavut,Canada
+MB,Manitoba,Canada,MN,Minnesota,Midwestern United States
+MB,Manitoba,Canada,ND,North Dakota,Midwestern United States
+MB,Manitoba,Canada,NWT,Northwest Territories,Canada
+NB,New Brunswick,Canada,QC,Québec,Canada
+NB,New Brunswick,Canada,ME,Maine,Northeastern United States
+NB,New Brunswick,Canada,NS,Nova Scotia,Canada
+NL,Newfoundland and Labrador,Canada,QC,Québec,Canada
+NL,Newfoundland and Labrador,Canada,SPM,Saint Pierre and Miquelon,Western Europe
+NWT,Northwest Territories,Canada,NU,Nunavut,Canada
+NWT,Northwest Territories,Canada,YT,Yukon,Canada
+NWT,Northwest Territories,Canada,SK,Saskatchewan,Canada
+ON,Ontario,Canada,QC,Québec,Canada
+ON,Ontario,Canada,MI,Michigan,Midwestern United States
+ON,Ontario,Canada,NY,New York,Northeastern United States
+ON,Ontario,Canada,MN,Minnesota,Midwestern United States
+QC,Québec,Canada,VT,Vermont,Northeastern United States
+QC,Québec,Canada,NH,New Hampshire,Northeastern United States
+QC,Québec,Canada,ME,Maine,Northeastern United States
+QC,Québec,Canada,NY,New York,Northeastern United States
+SK,Saskatchewan,Canada,MT,Montana,Western United States
+SK,Saskatchewan,Canada,ND,North Dakota,Midwestern United States
+YT,Yukon,Canada,AK,Alaska,Western United States
+CT,Connecticut,Northeastern United States,NY,New York,Northeastern United States
+CT,Connecticut,Northeastern United States,MA,Massachusetts,Northeastern United States
+CT,Connecticut,Northeastern United States,RI,Rhode Island,Northeastern United States
+ME,Maine,Northeastern United States,NH,New Hampshire,Northeastern United States
+MA,Massachusetts,Northeastern United States,NH,New Hampshire,Northeastern United States
+MA,Massachusetts,Northeastern United States,VT,Vermont,Northeastern United States
+MA,Massachusetts,Northeastern United States,NY,New York,Northeastern United States
+MA,Massachusetts,Northeastern United States,RI,Rhode Island,Northeastern United States
+NH,New Hampshire,Northeastern United States,VT,Vermont,Northeastern United States
+NJ,New Jersey,Northeastern United States,DE,Delaware,Southern United States
+NJ,New Jersey,Northeastern United States,PA,Pennsylvania,Northeastern United States
+NJ,New Jersey,Northeastern United States,NY,New York,Northeastern United States
+NY,New York,Northeastern United States,PA,Pennsylvania,Northeastern United States
+NY,New York,Northeastern United States,VT,Vermont,Northeastern United States
+PA,Pennsylvania,Northeastern United States,OH,Ohio,Midwestern United States
+PA,Pennsylvania,Northeastern United States,MD,Maryland,Southern United States
+PA,Pennsylvania,Northeastern United States,WV,West Virginia,Southern United States
+PA,Pennsylvania,Northeastern United States,DE,Delaware,Southern United States
+IL,Illinois,Midwestern United States,IN,Indiana,Midwestern United States
+IL,Illinois,Midwestern United States,MO,Missouri,Midwestern United States
+IL,Illinois,Midwestern United States,KY,Kentucky,Southern United States
+IL,Illinois,Midwestern United States,IA,Iowa,Midwestern United States
+IL,Illinois,Midwestern United States,WI,Wisconsin,Midwestern United States
+IN,Indiana,Midwestern United States,KY,Kentucky,Southern United States
+IN,Indiana,Midwestern United States,OH,Ohio,Midwestern United States
+IN,Indiana,Midwestern United States,MI,Michigan,Midwestern United States
+IA,Iowa,Midwestern United States,MO,Missouri,Midwestern United States
+IA,Iowa,Midwestern United States,NE,Nebraska,Midwestern United States
+IA,Iowa,Midwestern United States,SD,South Dakota,Midwestern United States
+IA,Iowa,Midwestern United States,WI,Wisconsin,Midwestern United States
+IA,Iowa,Midwestern United States,MN,Minnesota,Midwestern United States
+KS,Kansas,Midwestern United States,OK,Oklahoma,Southern United States
+KS,Kansas,Midwestern United States,NE,Nebraska,Midwestern United States
+KS,Kansas,Midwestern United States,MO,Missouri,Midwestern United States
+KS,Kansas,Midwestern United States,CO,Colorado,Western United States
+MI,Michigan,Midwestern United States,WI,Wisconsin,Midwestern United States
+MI,Michigan,Midwestern United States,OH,Ohio,Midwestern United States
+MN,Minnesota,Midwestern United States,ND,North Dakota,Midwestern United States
+MN,Minnesota,Midwestern United States,WI,Wisconsin,Midwestern United States
+MN,Minnesota,Midwestern United States,SD,South Dakota,Midwestern United States
+MO,Missouri,Midwestern United States,NE,Nebraska,Midwestern United States
+MO,Missouri,Midwestern United States,KY,Kentucky,Southern United States
+MO,Missouri,Midwestern United States,AR,Arkansas,Southern United States
+MO,Missouri,Midwestern United States,TN,Tennessee,Southern United States
+MO,Missouri,Midwestern United States,OK,Oklahoma,Southern United States
+NE,Nebraska,Midwestern United States,SD,South Dakota,Midwestern United States
+NE,Nebraska,Midwestern United States,WY,Wyoming,Western United States
+NE,Nebraska,Midwestern United States,CO,Colorado,Western United States
+ND,North Dakota,Midwestern United States,MT,Montana,Western United States
+ND,North Dakota,Midwestern United States,SD,South Dakota,Midwestern United States
+OH,Ohio,Midwestern United States,WV,West Virginia,Southern United States
+OH,Ohio,Midwestern United States,KY,Kentucky,Southern United States
+SD,South Dakota,Midwestern United States,WY,Wyoming,Western United States
+SD,South Dakota,Midwestern United States,MT,Montana,Western United States
+AZ,Arizona,Western United States,CA,California,Western United States
+AZ,Arizona,Western United States,NM,New Mexico,Western United States
+AZ,Arizona,Western United States,UT,Utah,Western United States
+AZ,Arizona,Western United States,GLJ,Guadalajara,Mexico
+AZ,Arizona,Western United States,NV,Nevada,Western United States
+CA,California,Western United States,GLJ,Guadalajara,Mexico
+CA,California,Western United States,NV,Nevada,Western United States
+CA,California,Western United States,OR,Oregon,Western United States
+CO,Colorado,Western United States,NM,New Mexico,Western United States
+CO,Colorado,Western United States,UT,Utah,Western United States
+CO,Colorado,Western United States,WY,Wyoming,Western United States
+CO,Colorado,Western United States,OK,Oklahoma,Southern United States
+ID,Idaho,Western United States,WA,Washington,Western United States
+ID,Idaho,Western United States,MT,Montana,Western United States
+ID,Idaho,Western United States,OR,Oregon,Western United States
+ID,Idaho,Western United States,WY,Wyoming,Western United States
+ID,Idaho,Western United States,NV,Nevada,Western United States
+ID,Idaho,Western United States,UT,Utah,Western United States
+MT,Montana,Western United States,WY,Wyoming,Western United States
+NV,Nevada,Western United States,UT,Utah,Western United States
+NV,Nevada,Western United States,OR,Oregon,Western United States
+NM,New Mexico,Western United States,TX,Texas,Southern United States
+NM,New Mexico,Western United States,GLJ,Guadalajara,Mexico
+NM,New Mexico,Western United States,UT,Utah,Western United States
+NM,New Mexico,Western United States,OK,Oklahoma,Southern United States
+OR,Oregon,Western United States,WA,Washington,Western United States
+UT,Utah,Western United States,WY,Wyoming,Western United States
+AL,Alabama,Southern United States,GA,Georgia,Southern United States
+AL,Alabama,Southern United States,TN,Tennessee,Southern United States
+AL,Alabama,Southern United States,MS,Mississippi,Southern United States
+AL,Alabama,Southern United States,FL,Florida,Southern United States
+AR,Arkansas,Southern United States,MS,Mississippi,Southern United States
+AR,Arkansas,Southern United States,TX,Texas,Southern United States
+AR,Arkansas,Southern United States,OK,Oklahoma,Southern United States
+AR,Arkansas,Southern United States,LA,Louisiana,Southern United States
+AR,Arkansas,Southern United States,TN,Tennessee,Southern United States
+DE,Delaware,Southern United States,MD,Maryland,Southern United States
+DC,District of Columbia,Southern United States,VA,Virginia,Southern United States
+DC,District of Columbia,Southern United States,MD,Maryland,Southern United States
+FL,Florida,Southern United States,GA,Georgia,Southern United States
+GA,Georgia,Southern United States,SC,South Carolina,Southern United States
+GA,Georgia,Southern United States,NC,North Carolina,Southern United States
+GA,Georgia,Southern United States,TN,Tennessee,Southern United States
+KY,Kentucky,Southern United States,WV,West Virginia,Southern United States
+KY,Kentucky,Southern United States,TN,Tennessee,Southern United States
+KY,Kentucky,Southern United States,VA,Virginia,Southern United States
+LA,Louisiana,Southern United States,TX,Texas,Southern United States
+LA,Louisiana,Southern United States,MS,Mississippi,Southern United States
+MD,Maryland,Southern United States,WV,West Virginia,Southern United States
+MD,Maryland,Southern United States,VA,Virginia,Southern United States
+MS,Mississippi,Southern United States,TN,Tennessee,Southern United States
+NC,North Carolina,Southern United States,TN,Tennessee,Southern United States
+NC,North Carolina,Southern United States,SC,South Carolina,Southern United States
+NC,North Carolina,Southern United States,VA,Virginia,Southern United States
+NC,North Carolina,Southern United States,BMU,Bermuda,Caribbean
+OK,Oklahoma,Southern United States,TX,Texas,Southern United States
+TN,Tennessee,Southern United States,VA,Virginia,Southern United States
+TX,Texas,Southern United States,MR,Monterrey,Mexico
+TX,Texas,Southern United States,GLJ,Guadalajara,Mexico
+VA,Virginia,Southern United States,WV,West Virginia,Southern United States
+DOM,Dominican Republic,Caribbean,HAI,Haiti,Caribbean
+BVI,British Virgin Islands,Caribbean,UVI,U.S. Virgin Islands,Caribbean
+MEX,Estado de México,Mexico,GLJ,Guadalajara,Mexico
+MEX,Estado de México,Mexico,MXC,Mexico City,Mexico
+MEX,Estado de México,Mexico,MR,Monterrey,Mexico
+MEX,Estado de México,Mexico,XA,Xalapa (XA),Mexico
+GLJ,Guadalajara,Mexico,MR,Monterrey,Mexico
+MXC,Mexico City,Mexico,XA,Xalapa (XA),Mexico
+MR,Monterrey,Mexico,XA,Xalapa (XA),Mexico
+XA,Xalapa (XA),Mexico,GUA,Guatemala,Central America
+XA,Xalapa (XA),Mexico,BIZ,Belize,Central America
+BIZ,Belize,Central America,GUA,Guatemala,Central America
+CRC,Costa Rica,Central America,PAN,Panama,Central America
+CRC,Costa Rica,Central America,NCA,Nicaragua,Central America
+SLV,El Salvador,Central America,GUA,Guatemala,Central America
+SLV,El Salvador,Central America,HON,Honduras,Central America
+GUA,Guatemala,Central America,HON,Honduras,Central America
+HON,Honduras,Central America,NCA,Nicaragua,Central America
+PAN,Panama,Central America,RPC,Región del Pacífico,North South America
+RAD,Región Andina,North South America,RPC,Región del Pacífico,North South America
+RAD,Región Andina,North South America,VNC,Venezuela Occidental,North South America
+RPC,Región del Pacífico,North South America,ECC,Coastal Ecuador,North South America
+ECC,Coastal Ecuador,North South America,CPR,Coastal Peru,West-Center South America
+VNC,Venezuela Occidental,North South America,VNO,Venezuela Oriente,North South America
+BOC,Bolivia Occidental,West-Center South America,CLN,Northern Chile,South South America
+BOC,Bolivia Occidental,West-Center South America,PRY,Paraguay,West-Center South America
+BOC,Bolivia Occidental,West-Center South America,SPR,South Peru,West-Center South America
+PRY,Paraguay,West-Center South America,BPR,Paraná,Brazil
+CPR,Coastal Peru,West-Center South America,SPR,South Peru,West-Center South America
+SPR,South Peru,West-Center South America,CLN,Northern Chile,South South America
+BMG,Minas Gerais,Brazil,BSP,São Paulo,Brazil
+BPR,Paraná,Brazil,BSP,São Paulo,Brazil
+BPR,Paraná,Brazil,BSC,Santa Catarina,Brazil
+PTA,Patagonia,South South America,CLS,Southern Chile,South South America
+CLM,Metropolitan Chile,South South America,CLS,Southern Chile,South South America
+CLM,Metropolitan Chile,South South America,CLN,Northern Chile,South South America
+CLN,Northern Chile,South South America,CLS,Southern Chile,South South America
+DEN,Denmark,Northern Europe,SH,Schleswig-Holstein,Western Europe
+EST,Estonia,Northern Europe,NWR,Northwestern Russia,Eastern Europe
+EST,Estonia,Northern Europe,LAT,Latvia,Northern Europe
+FIN,Finland,Northern Europe,NWR,Northwestern Russia,Eastern Europe
+FIN,Finland,Northern Europe,NOR,Norway,Northern Europe
+FIN,Finland,Northern Europe,NRL,Norrland,Northern Europe
+AX,Aland Islands,Northern Europe,FIN,Finland,Northern Europe
+AX,Aland Islands,Northern Europe,SVE,Svealand,Northern Europe
+IRE,Ireland,Northern Europe,NIR,Northern Ireland,Northern Europe
+LAT,Latvia,Northern Europe,BLR,Belarus,Eastern Europe
+LAT,Latvia,Northern Europe,LIT,Lithuania,Northern Europe
+LAT,Latvia,Northern Europe,NWR,Northwestern Russia,Eastern Europe
+LIT,Lithuania,Northern Europe,POM,Pomerania,Eastern Europe
+LIT,Lithuania,Northern Europe,BLR,Belarus,Eastern Europe
+LIT,Lithuania,Northern Europe,WAR,Warsaw,Eastern Europe
+NOR,Norway,Northern Europe,NRL,Norrland,Northern Europe
+NOR,Norway,Northern Europe,GOT,Götaland,Northern Europe
+NOR,Norway,Northern Europe,SVE,Svealand,Northern Europe
+NOR,Norway,Northern Europe,NWR,Northwestern Russia,Eastern Europe
+GOT,Götaland,Northern Europe,SVE,Svealand,Northern Europe
+NRL,Norrland,Northern Europe,SVE,Svealand,Northern Europe
+EML,East Midlands,Northern Europe,SEE,South East England,Northern Europe
+EML,East Midlands,Northern Europe,YSH,Yorkshire and the Humber,Northern Europe
+EML,East Midlands,Northern Europe,WML,West Midlands,Northern Europe
+EML,East Midlands,Northern Europe,EAE,East of England,Northern Europe
+EML,East Midlands,Northern Europe,NWE,North West England,Northern Europe
+EAE,East of England,Northern Europe,LON,Greater London,Northern Europe
+EAE,East of England,Northern Europe,SEE,South East England,Northern Europe
+LON,Greater London,Northern Europe,SEE,South East England,Northern Europe
+NWE,North West England,Northern Europe,YSH,Yorkshire and the Humber,Northern Europe
+NWE,North West England,Northern Europe,WML,West Midlands,Northern Europe
+NWE,North West England,Northern Europe,CYM,Wales,Northern Europe
+NWE,North West England,Northern Europe,SCT,Scotland,Northern Europe
+SEE,South East England,Northern Europe,SWE,South West England,Northern Europe
+SEE,South East England,Northern Europe,WML,West Midlands,Northern Europe
+SWE,South West England,Northern Europe,WML,West Midlands,Northern Europe
+SWE,South West England,Northern Europe,CYM,Wales,Northern Europe
+CYM,Wales,Northern Europe,WML,West Midlands,Northern Europe
+AUT,Austria,Western Europe,SVN,Slovenia,Southern Europe
+AUT,Austria,Western Europe,CZE,Czechia,Eastern Europe
+AUT,Austria,Western Europe,BY,Bavaria,Western Europe
+AUT,Austria,Western Europe,NEI,Northeast Italy,Southern Europe
+AUT,Austria,Western Europe,HUN,Hungary,Eastern Europe
+AUT,Austria,Western Europe,SVK,Slovakia,Eastern Europe
+AUT,Austria,Western Europe,CHE,Switzerland,Western Europe
+AUT,Austria,Western Europe,LIE,Liechtenstein,Western Europe
+AUT,Austria,Western Europe,BDW,Baden-Württemberg,Western Europe
+FLA,Flanders,Western Europe,SNL,South Netherlands,Western Europe
+FLA,Flanders,Western Europe,WNL,West Netherlands,Western Europe
+FLA,Flanders,Western Europe,WAL,Wallonia,Western Europe
+FLA,Flanders,Western Europe,HDF,Hauts-de-France,Western Europe
+WAL,Wallonia,Western Europe,NRW,North Rhine-Westphalia,Western Europe
+WAL,Wallonia,Western Europe,GES,Grand Est,Western Europe
+WAL,Wallonia,Western Europe,LUX,Luxembourg,Western Europe
+WAL,Wallonia,Western Europe,SNL,South Netherlands,Western Europe
+WAL,Wallonia,Western Europe,HDF,Hauts-de-France,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,NWI,Northwest Italy,Southern Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,OCC,Occitanie,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,PAC,Provence-Alpes-Côte d'Azur,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,NAQ,Nouvelle-Aquitaine,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,CVL,Centre-Val de Loire,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,BFC,Bourgogne Franche-Comté,Western Europe
+ARA,Auvergne-Rhône-Alpes,Western Europe,CHE,Switzerland,Western Europe
+BFC,Bourgogne Franche-Comté,Western Europe,GES,Grand Est,Western Europe
+BFC,Bourgogne Franche-Comté,Western Europe,CVL,Centre-Val de Loire,Western Europe
+BFC,Bourgogne Franche-Comté,Western Europe,CHE,Switzerland,Western Europe
+BFC,Bourgogne Franche-Comté,Western Europe,IDF,Île-de-France,Western Europe
+BRE,Brittany,Western Europe,PDL,Pays de la Loire,Western Europe
+BRE,Brittany,Western Europe,NMD,Normandy,Western Europe
+CVL,Centre-Val de Loire,Western Europe,NAQ,Nouvelle-Aquitaine,Western Europe
+CVL,Centre-Val de Loire,Western Europe,PDL,Pays de la Loire,Western Europe
+CVL,Centre-Val de Loire,Western Europe,NMD,Normandy,Western Europe
+CVL,Centre-Val de Loire,Western Europe,IDF,Île-de-France,Western Europe
+GES,Grand Est,Western Europe,IDF,Île-de-France,Western Europe
+GES,Grand Est,Western Europe,CHE,Switzerland,Western Europe
+GES,Grand Est,Western Europe,SL,Saarland,Western Europe
+GES,Grand Est,Western Europe,BDW,Baden-Württemberg,Western Europe
+GES,Grand Est,Western Europe,HDF,Hauts-de-France,Western Europe
+GES,Grand Est,Western Europe,LUX,Luxembourg,Western Europe
+HDF,Hauts-de-France,Western Europe,IDF,Île-de-France,Western Europe
+HDF,Hauts-de-France,Western Europe,NMD,Normandy,Western Europe
+IDF,Île-de-France,Western Europe,NMD,Normandy,Western Europe
+NMD,Normandy,Western Europe,PDL,Pays de la Loire,Western Europe
+NAQ,Nouvelle-Aquitaine,Western Europe,PDL,Pays de la Loire,Western Europe
+NAQ,Nouvelle-Aquitaine,Western Europe,OCC,Occitanie,Western Europe
+NAQ,Nouvelle-Aquitaine,Western Europe,NES,North East Spain,Southern Europe
+OCC,Occitanie,Western Europe,ESS,East Spain,Southern Europe
+OCC,Occitanie,Western Europe,NES,North East Spain,Southern Europe
+OCC,Occitanie,Western Europe,PAC,Provence-Alpes-Côte d'Azur,Western Europe
+PAC,Provence-Alpes-Côte d'Azur,Western Europe,NWI,Northwest Italy,Southern Europe
+BDW,Baden-Württemberg,Western Europe,BY,Bavaria,Western Europe
+BDW,Baden-Württemberg,Western Europe,CHE,Switzerland,Western Europe
+BDW,Baden-Württemberg,Western Europe,HE,Hesse,Western Europe
+BY,Bavaria,Western Europe,CZE,Czechia,Eastern Europe
+BY,Bavaria,Western Europe,HE,Hesse,Western Europe
+BY,Bavaria,Western Europe,TH,Thuringia,Western Europe
+BY,Bavaria,Western Europe,SN,Saxony,Western Europe
+BE,Berlin (BE),Western Europe,BB,Brandenburg,Western Europe
+BB,Brandenburg,Western Europe,POM,Pomerania,Eastern Europe
+BB,Brandenburg,Western Europe,SN,Saxony,Western Europe
+BB,Brandenburg,Western Europe,NI,Lower Saxony,Western Europe
+HH,Hamburg (HH),Western Europe,NI,Lower Saxony,Western Europe
+HH,Hamburg (HH),Western Europe,SH,Schleswig-Holstein,Western Europe
+HE,Hesse,Western Europe,TH,Thuringia,Western Europe
+HE,Hesse,Western Europe,NRW,North Rhine-Westphalia,Western Europe
+HE,Hesse,Western Europe,NI,Lower Saxony,Western Europe
+NI,Lower Saxony,Western Europe,NRW,North Rhine-Westphalia,Western Europe
+NI,Lower Saxony,Western Europe,ENL,East Netherlands,Western Europe
+NI,Lower Saxony,Western Europe,TH,Thuringia,Western Europe
+NI,Lower Saxony,Western Europe,NNL,North Netherlands,Western Europe
+NI,Lower Saxony,Western Europe,SH,Schleswig-Holstein,Western Europe
+NRW,North Rhine-Westphalia,Western Europe,SNL,South Netherlands,Western Europe
+NRW,North Rhine-Westphalia,Western Europe,ENL,East Netherlands,Western Europe
+SL,Saarland,Western Europe,LUX,Luxembourg,Western Europe
+SN,Saxony,Western Europe,CZE,Czechia,Eastern Europe
+SN,Saxony,Western Europe,POM,Pomerania,Eastern Europe
+SN,Saxony,Western Europe,TH,Thuringia,Western Europe
+LIE,Liechtenstein,Western Europe,CHE,Switzerland,Western Europe
+ENL,East Netherlands,Western Europe,NNL,North Netherlands,Western Europe
+ENL,East Netherlands,Western Europe,WNL,West Netherlands,Western Europe
+ENL,East Netherlands,Western Europe,SNL,South Netherlands,Western Europe
+SNL,South Netherlands,Western Europe,WNL,West Netherlands,Western Europe
+CHE,Switzerland,Western Europe,NWI,Northwest Italy,Southern Europe
+CHE,Switzerland,Western Europe,NEI,Northeast Italy,Southern Europe
+BLR,Belarus,Eastern Europe,NWR,Northwestern Russia,Eastern Europe
+BLR,Belarus,Eastern Europe,CER,Central Russia,Eastern Europe
+BLR,Belarus,Eastern Europe,CUA,Central Ukraine,Eastern Europe
+BLR,Belarus,Eastern Europe,WUA,West Ukraine,Eastern Europe
+BLR,Belarus,Eastern Europe,WAR,Warsaw,Eastern Europe
+BUL,Bulgaria,Eastern Europe,WLA,Wallachia,Eastern Europe
+BUL,Bulgaria,Eastern Europe,SRB,Serbia,Southern Europe
+BUL,Bulgaria,Eastern Europe,ATH,Athens,Southern Europe
+BUL,Bulgaria,Eastern Europe,MMR,Marmara,West Asia
+BUL,Bulgaria,Eastern Europe,MKD,North Macedonia,Southern Europe
+CZE,Czechia,Eastern Europe,POM,Pomerania,Eastern Europe
+CZE,Czechia,Eastern Europe,SVK,Slovakia,Eastern Europe
+HUN,Hungary,Eastern Europe,SVK,Slovakia,Eastern Europe
+HUN,Hungary,Eastern Europe,TRA,Transylvania,Eastern Europe
+HUN,Hungary,Eastern Europe,SRB,Serbia,Southern Europe
+HUN,Hungary,Eastern Europe,WUA,West Ukraine,Eastern Europe
+HUN,Hungary,Eastern Europe,SVN,Slovenia,Southern Europe
+HUN,Hungary,Eastern Europe,CRO,Croatia,Southern Europe
+MDA,Moldova,Eastern Europe,WLA,Wallachia,Eastern Europe
+MDA,Moldova,Eastern Europe,WUA,West Ukraine,Eastern Europe
+MDA,Moldova,Eastern Europe,CUA,Central Ukraine,Eastern Europe
+POM,Pomerania,Eastern Europe,SVK,Slovakia,Eastern Europe
+POM,Pomerania,Eastern Europe,WAR,Warsaw,Eastern Europe
+WAR,Warsaw,Eastern Europe,SVK,Slovakia,Eastern Europe
+WAR,Warsaw,Eastern Europe,WUA,West Ukraine,Eastern Europe
+TRA,Transylvania,Eastern Europe,WUA,West Ukraine,Eastern Europe
+TRA,Transylvania,Eastern Europe,WLA,Wallachia,Eastern Europe
+TRA,Transylvania,Eastern Europe,SRB,Serbia,Southern Europe
+WLA,Wallachia,Eastern Europe,SRB,Serbia,Southern Europe
+CER,Central Russia,Eastern Europe,VOR,Volga Russia,Eastern Europe
+CER,Central Russia,Eastern Europe,SOR,Southern Russia,Eastern Europe
+CER,Central Russia,Eastern Europe,NWR,Northwestern Russia,Eastern Europe
+CER,Central Russia,Eastern Europe,CUA,Central Ukraine,Eastern Europe
+NWR,Northwestern Russia,Eastern Europe,URR,Ural Russia,North Asia
+NWR,Northwestern Russia,Eastern Europe,VOR,Volga Russia,Eastern Europe
+SOR,Southern Russia,Eastern Europe,KAZ,Kazakhstan,Central Asia
+SOR,Southern Russia,Eastern Europe,VOR,Volga Russia,Eastern Europe
+VOR,Volga Russia,Eastern Europe,KAZ,Kazakhstan,Central Asia
+VOR,Volga Russia,Eastern Europe,URR,Ural Russia,North Asia
+SVK,Slovakia,Eastern Europe,WUA,West Ukraine,Eastern Europe
+CUA,Central Ukraine,Eastern Europe,WUA,West Ukraine,Eastern Europe
+ALB,Albania,Southern Europe,KSR,Kosovo,Southern Europe
+ALB,Albania,Southern Europe,MNE,Montenegro,Southern Europe
+ALB,Albania,Southern Europe,MKD,North Macedonia,Southern Europe
+ALB,Albania,Southern Europe,ATH,Athens,Southern Europe
+BIH,Bosnia and Herzegovina,Southern Europe,CRO,Croatia,Southern Europe
+BIH,Bosnia and Herzegovina,Southern Europe,SRB,Serbia,Southern Europe
+BIH,Bosnia and Herzegovina,Southern Europe,MNE,Montenegro,Southern Europe
+CRO,Croatia,Southern Europe,SRB,Serbia,Southern Europe
+CRO,Croatia,Southern Europe,SVN,Slovenia,Southern Europe
+CRO,Croatia,Southern Europe,MNE,Montenegro,Southern Europe
+ATH,Athens,Southern Europe,MMR,Marmara,West Asia
+ATH,Athens,Southern Europe,MKD,North Macedonia,Southern Europe
+ATH,Athens,Southern Europe,AGR,Aegean Greece,Southern Europe
+CTI,Central Italy,Southern Europe,SOI,South Italy,Southern Europe
+CTI,Central Italy,Southern Europe,NEI,Northeast Italy,Southern Europe
+CTI,Central Italy,Southern Europe,NWI,Northwest Italy,Southern Europe
+CTI,Central Italy,Southern Europe,VAT,Vatican City,Southern Europe
+NEI,Northeast Italy,Southern Europe,NWI,Northwest Italy,Southern Europe
+NEI,Northeast Italy,Southern Europe,SVN,Slovenia,Southern Europe
+KSR,Kosovo,Southern Europe,SRB,Serbia,Southern Europe
+KSR,Kosovo,Southern Europe,MKD,North Macedonia,Southern Europe
+KSR,Kosovo,Southern Europe,MNE,Montenegro,Southern Europe
+MNE,Montenegro,Southern Europe,SRB,Serbia,Southern Europe
+MKD,North Macedonia,Southern Europe,SRB,Serbia,Southern Europe
+POR,Portugal,Southern Europe,CES,Centre Spain,Southern Europe
+POR,Portugal,Southern Europe,NWS,North West Spain,Southern Europe
+POR,Portugal,Southern Europe,SUS,South Spain,Southern Europe
+CES,Centre Spain,Southern Europe,NES,North East Spain,Southern Europe
+CES,Centre Spain,Southern Europe,NWS,North West Spain,Southern Europe
+CES,Centre Spain,Southern Europe,ESS,East Spain,Southern Europe
+CES,Centre Spain,Southern Europe,SUS,South Spain,Southern Europe
+CES,Centre Spain,Southern Europe,MDS,Comunidad de Madrid,Southern Europe
+ESS,East Spain,Southern Europe,NES,North East Spain,Southern Europe
+ESS,East Spain,Southern Europe,SUS,South Spain,Southern Europe
+NES,North East Spain,Southern Europe,NWS,North West Spain,Southern Europe
+DZS,Algerian Sahara,Northern Africa,LBY,Libya,Northern Africa
+DZS,Algerian Sahara,Northern Africa,DZE,Eastern Algeria,Northern Africa
+DZS,Algerian Sahara,Northern Africa,MAT,Moroccan Atlas,Northern Africa
+LBY,Libya,Northern Africa,NSD,Northern Sudan,Northern Africa
+GHB,Gharb,Northern Africa,RIF,Rif,Northern Africa
+GHB,Gharb,Northern Africa,MAT,Moroccan Atlas,Northern Africa
+MAT,Moroccan Atlas,Northern Africa,RIF,Rif,Northern Africa
+NSD,Northern Sudan,Northern Africa,ERI,Eritrea,Eastern Africa
+DJI,Djibouti,Eastern Africa,ERI,Eritrea,Eastern Africa
+GEO,Georgia,West Asia,BLS,Black Sea Turkey,West Asia
+IRV,Iran Region Five,West Asia,IRT,Iran Region Two,West Asia
+IRV,Iran Region Five,West Asia,TKM,Turkmenistan,Central Asia
+IRV,Iran Region Five,West Asia,IRO,Iran Region One,West Asia
+IRV,Iran Region Five,West Asia,AFE,Eastern Afghanistan,Central Asia
+IRV,Iran Region Five,West Asia,PBL,Balochistan,South Asia
+IRF,Iran Region Four,West Asia,IRO,Iran Region One,West Asia
+IRF,Iran Region Four,West Asia,IRT,Iran Region Two,West Asia
+IRF,Iran Region Four,West Asia,NIQ,North Iraq,West Asia
+IRF,Iran Region Four,West Asia,MIQ,Middle Iraq,West Asia
+IRO,Iran Region One,West Asia,IRT,Iran Region Two,West Asia
+IRO,Iran Region One,West Asia,TKM,Turkmenistan,Central Asia
+IRT,Iran Region Two,West Asia,OMN,Oman,West Asia
+MIQ,Middle Iraq,West Asia,NAJ,Najd,West Asia
+MIQ,Middle Iraq,West Asia,ESY,Eastern Syria,West Asia
+MIQ,Middle Iraq,West Asia,NIQ,North Iraq,West Asia
+MIQ,Middle Iraq,West Asia,WSY,Western Syria,West Asia
+MIQ,Middle Iraq,West Asia,JOR,Jordan,West Asia
+NIQ,North Iraq,West Asia,ESY,Eastern Syria,West Asia
+ISR,Israel,West Asia,PSE,Palestine,West Asia
+ISR,Israel,West Asia,JOR,Jordan,West Asia
+ISR,Israel,West Asia,LBN,Lebanon,West Asia
+ISR,Israel,West Asia,WSY,Western Syria,West Asia
+JOR,Jordan,West Asia,NAJ,Najd,West Asia
+JOR,Jordan,West Asia,HEJ,Hejaz,West Asia
+JOR,Jordan,West Asia,WSY,Western Syria,West Asia
+JOR,Jordan,West Asia,PSE,Palestine,West Asia
+LBN,Lebanon,West Asia,WSY,Western Syria,West Asia
+OMN,Oman,West Asia,UAE,United Arab Emirates,West Asia
+OMN,Oman,West Asia,NAJ,Najd,West Asia
+OMN,Oman,West Asia,SYE,South Yemen,West Asia
+QAT,Qatar,West Asia,NAJ,Najd,West Asia
+HEJ,Hejaz,West Asia,NAJ,Najd,West Asia
+NAJ,Najd,West Asia,UAE,United Arab Emirates,West Asia
+ESY,Eastern Syria,West Asia,WSY,Western Syria,West Asia
+WSY,Western Syria,West Asia,MTR,Mediterranean Turkey,West Asia
+ATR,Aegean Turkey,West Asia,CAT,Central Anatolia,West Asia
+ATR,Aegean Turkey,West Asia,MMR,Marmara,West Asia
+ATR,Aegean Turkey,West Asia,MTR,Mediterranean Turkey,West Asia
+BLS,Black Sea Turkey,West Asia,CAT,Central Anatolia,West Asia
+BLS,Black Sea Turkey,West Asia,MMR,Marmara,West Asia
+CAT,Central Anatolia,West Asia,MMR,Marmara,West Asia
+CAT,Central Anatolia,West Asia,MTR,Mediterranean Turkey,West Asia
+NYE,North Yemen,West Asia,SYE,South Yemen,West Asia
+AFE,Eastern Afghanistan,Central Asia,AFW,Western Afghanistan,Central Asia
+AFE,Eastern Afghanistan,Central Asia,AFN,Northern Afghanistan,Central Asia
+AFE,Eastern Afghanistan,Central Asia,TKM,Turkmenistan,Central Asia
+AFN,Northern Afghanistan,Central Asia,AFW,Western Afghanistan,Central Asia
+AFN,Northern Afghanistan,Central Asia,TJK,Tajikistan,Central Asia
+AFN,Northern Afghanistan,Central Asia,TKM,Turkmenistan,Central Asia
+AFN,Northern Afghanistan,Central Asia,PKP,Khyber Pakhtunkhwa,South Asia
+AFN,Northern Afghanistan,Central Asia,SMK,Samarkand,Central Asia
+AFN,Northern Afghanistan,Central Asia,XJ,Xinjiang,East Asia
+AFW,Western Afghanistan,Central Asia,PKP,Khyber Pakhtunkhwa,South Asia
+KGZ,Kyrgyzstan,Central Asia,XJ,Xinjiang,East Asia
+KGZ,Kyrgyzstan,Central Asia,KAZ,Kazakhstan,Central Asia
+KGZ,Kyrgyzstan,Central Asia,TAK,Tashkent,Central Asia
+KGZ,Kyrgyzstan,Central Asia,TJK,Tajikistan,Central Asia
+TJK,Tajikistan,Central Asia,TAK,Tashkent,Central Asia
+TJK,Tajikistan,Central Asia,XJ,Xinjiang,East Asia
+TJK,Tajikistan,Central Asia,SMK,Samarkand,Central Asia
+TKM,Turkmenistan,Central Asia,SMK,Samarkand,Central Asia
+TKM,Turkmenistan,Central Asia,KAZ,Kazakhstan,Central Asia
+SMK,Samarkand,Central Asia,KAZ,Kazakhstan,Central Asia
+SMK,Samarkand,Central Asia,TAK,Tashkent,Central Asia
+TAK,Tashkent,Central Asia,KAZ,Kazakhstan,Central Asia
+URR,Ural Russia,North Asia,SIR,Siberian Russia,North Asia
+URR,Ural Russia,North Asia,KAZ,Kazakhstan,Central Asia
+IMN,Inner Mongolia,East Asia,JLN,Jilin,East Asia
+IMN,Inner Mongolia,East Asia,MGL,Mongolia,East Asia
+IMN,Inner Mongolia,East Asia,FER,Far Eastern Russia,North Asia
+IMN,Inner Mongolia,East Asia,SNX,Shaanxi,East Asia
+IMN,Inner Mongolia,East Asia,LNG,Liaoning,East Asia
+JLN,Jilin,East Asia,LNG,Liaoning,East Asia
+JLN,Jilin,East Asia,PRK,North Korea,East Asia
+JLN,Jilin,East Asia,FER,Far Eastern Russia,North Asia
+LNG,Liaoning,East Asia,PRK,North Korea,East Asia
+SNX,Shaanxi,East Asia,SCN,Sichuan,East Asia
+SCN,Sichuan,East Asia,TIB,Tibet,East Asia
+TIB,Tibet,East Asia,EMM,Northeast Myanmar,Southeast Asia
+TIB,Tibet,East Asia,XJ,Xinjiang,East Asia
+TIB,Tibet,East Asia,IHP,Himachal Pradesh,South Asia
+XJ,Xinjiang,East Asia,KAZ,Kazakhstan,Central Asia
+XJ,Xinjiang,East Asia,MGL,Mongolia,East Asia
+XJ,Xinjiang,East Asia,SIR,Siberian Russia,North Asia
+MGL,Mongolia,East Asia,SIR,Siberian Russia,North Asia
+MGL,Mongolia,East Asia,FER,Far Eastern Russia,North Asia
+PRK,North Korea,East Asia,FER,Far Eastern Russia,North Asia
+PRK,North Korea,East Asia,GNG,Gyeonggi,East Asia
+ICH,Chandigarh,South Asia,IPB,Indian Punjab,South Asia
+IDL,Delhi,South Asia,IUP,Uttar Pradesh,South Asia
+IHP,Himachal Pradesh,South Asia,IPB,Indian Punjab,South Asia
+IHP,Himachal Pradesh,South Asia,IUP,Uttar Pradesh,South Asia
+IPB,Indian Punjab,South Asia,PPB,Pakistani Punjab,South Asia
+IJH,Jharkhand,South Asia,IWB,West Bengal,South Asia
+IJH,Jharkhand,South Asia,IUP,Uttar Pradesh,South Asia
+PBL,Balochistan,South Asia,PPB,Pakistani Punjab,South Asia
+PBL,Balochistan,South Asia,PKP,Khyber Pakhtunkhwa,South Asia
+ISP,Islamabad,South Asia,PPB,Pakistani Punjab,South Asia
+ISP,Islamabad,South Asia,PKP,Khyber Pakhtunkhwa,South Asia
+PKP,Khyber Pakhtunkhwa,South Asia,PPB,Pakistani Punjab,South Asia
+KII,East Kalimantan,Southeast Asia,KBI,West Kalimantan,Southeast Asia
+WMY,West Malaya,Southeast Asia,THS,Southern Thailand,Southeast Asia
+WMY,West Malaya,Southeast Asia,SGP,Singapore,Southeast Asia
+LMM,Lower Burma,Southeast Asia,UMM,Upper Burma,Southeast Asia
+LMM,Lower Burma,Southeast Asia,RKM,Rakhine,Southeast Asia
+LMM,Lower Burma,Southeast Asia,THS,Southern Thailand,Southeast Asia
+EMM,Northeast Myanmar,Southeast Asia,UMM,Upper Burma,Southeast Asia
+RKM,Rakhine,Southeast Asia,UMM,Upper Burma,Southeast Asia
+COE,Eastern Colombia,North South America,BAM,Amazonas,Brazil
+COE,Eastern Colombia,North South America,NPR,North Peru,West-Center South America
+COE,Eastern Colombia,North South America,ECI,Inland Ecuador,North South America
+COE,Eastern Colombia,North South America,RAD,Región Andina,North South America
+COE,Eastern Colombia,North South America,VNO,Venezuela Oriente,North South America
+COE,Eastern Colombia,North South America,VNC,Venezuela Occidental,North South America
+COE,Eastern Colombia,North South America,RPC,Región del Pacífico,North South America
+RAD,Región Andina,North South America,RCR,Región Caribe,North South America
+RCR,Región Caribe,North South America,VNC,Venezuela Occidental,North South America
+RPC,Región del Pacífico,North South America,ECI,Inland Ecuador,North South America
+ECC,Coastal Ecuador,North South America,ECI,Inland Ecuador,North South America
+ECI,Inland Ecuador,North South America,NPR,North Peru,West-Center South America
+ECI,Inland Ecuador,North South America,CPR,Coastal Peru,West-Center South America
+VNC,Venezuela Occidental,North South America,VNM,Metropolitan Venezuela,North South America
+VNM,Metropolitan Venezuela,North South America,VNO,Venezuela Oriente,North South America
+VNO,Venezuela Oriente,North South America,BAM,Amazonas,Brazil
+VNO,Venezuela Oriente,North South America,BRR,Roraima,Brazil
+VNO,Venezuela Oriente,North South America,GUY,Guyana,North South America
+GUF,French Guiana,North South America,SUR,Suriname,North South America
+GUF,French Guiana,North South America,BAP,Amapá,Brazil
+GUY,Guyana,North South America,BRR,Roraima,Brazil
+GUY,Guyana,North South America,SUR,Suriname,North South America
+GUY,Guyana,North South America,BPA,Pará,Brazil
+SUR,Suriname,North South America,BPA,Pará,Brazil
+SUR,Suriname,North South America,BAP,Amapá,Brazil
+BOC,Bolivia Occidental,West-Center South America,BOR,Bolivia Oriente,West-Center South America
+BOC,Bolivia Occidental,West-Center South America,ARW,Argentine Northwest,South South America
+BOR,Bolivia Oriente,West-Center South America,BMT,Mato Grosso,Brazil
+BOR,Bolivia Oriente,West-Center South America,PRY,Paraguay,West-Center South America
+BOR,Bolivia Oriente,West-Center South America,BRO,Rondônia,Brazil
+BOR,Bolivia Oriente,West-Center South America,BAC,Acre,Brazil
+BOR,Bolivia Oriente,West-Center South America,BMS,Mato Grosso do Sul,Brazil
+BOR,Bolivia Oriente,West-Center South America,SPR,South Peru,West-Center South America
+PRY,Paraguay,West-Center South America,BMS,Mato Grosso do Sul,Brazil
+PRY,Paraguay,West-Center South America,ARE,Argentine Northeast,South South America
+PRY,Paraguay,West-Center South America,ARW,Argentine Northwest,South South America
+CPR,Coastal Peru,West-Center South America,NPR,North Peru,West-Center South America
+NPR,North Peru,West-Center South America,SPR,South Peru,West-Center South America
+NPR,North Peru,West-Center South America,BAC,Acre,Brazil
+NPR,North Peru,West-Center South America,BAM,Amazonas,Brazil
+SPR,South Peru,West-Center South America,BAC,Acre,Brazil
+BAC,Acre,Brazil,BAM,Amazonas,Brazil
+BAC,Acre,Brazil,BRO,Rondônia,Brazil
+BAL,Alagoas,Brazil,BPE,Pernambuco,Brazil
+BAL,Alagoas,Brazil,BSE,Sergipe,Brazil
+BAL,Alagoas,Brazil,BBA,Bahia,Brazil
+BAP,Amapá,Brazil,BPA,Pará,Brazil
+BAM,Amazonas,Brazil,BPA,Pará,Brazil
+BAM,Amazonas,Brazil,BMT,Mato Grosso,Brazil
+BAM,Amazonas,Brazil,BRO,Rondônia,Brazil
+BAM,Amazonas,Brazil,BRR,Roraima,Brazil
+BBA,Bahia,Brazil,BPI,Piauí,Brazil
+BBA,Bahia,Brazil,BPE,Pernambuco,Brazil
+BBA,Bahia,Brazil,BTO,Tocantins,Brazil
+BBA,Bahia,Brazil,BGO,Goiás,Brazil
+BBA,Bahia,Brazil,BSE,Sergipe,Brazil
+BBA,Bahia,Brazil,BMG,Minas Gerais,Brazil
+BBA,Bahia,Brazil,BEP,Espírito Santo,Brazil
+BCE,Ceará,Brazil,BPE,Pernambuco,Brazil
+BCE,Ceará,Brazil,BPB,Paraíba,Brazil
+BCE,Ceará,Brazil,BRG,Rio Grande do Norte,Brazil
+BCE,Ceará,Brazil,BPI,Piauí,Brazil
+BDF,Distrito Federal,Brazil,BGO,Goiás,Brazil
+BDF,Distrito Federal,Brazil,BMG,Minas Gerais,Brazil
+BEP,Espírito Santo,Brazil,BMG,Minas Gerais,Brazil
+BEP,Espírito Santo,Brazil,BRJ,Rio de Janeiro,Brazil
+BGO,Goiás,Brazil,BMG,Minas Gerais,Brazil
+BGO,Goiás,Brazil,BMS,Mato Grosso do Sul,Brazil
+BGO,Goiás,Brazil,BMT,Mato Grosso,Brazil
+BGO,Goiás,Brazil,BTO,Tocantins,Brazil
+BMA,Maranhão,Brazil,BPI,Piauí,Brazil
+BMA,Maranhão,Brazil,BTO,Tocantins,Brazil
+BMA,Maranhão,Brazil,BPA,Pará,Brazil
+BMT,Mato Grosso,Brazil,BTO,Tocantins,Brazil
+BMT,Mato Grosso,Brazil,BMS,Mato Grosso do Sul,Brazil
+BMT,Mato Grosso,Brazil,BRO,Rondônia,Brazil
+BMT,Mato Grosso,Brazil,BPA,Pará,Brazil
+BMS,Mato Grosso do Sul,Brazil,BMG,Minas Gerais,Brazil
+BMS,Mato Grosso do Sul,Brazil,BPR,Paraná,Brazil
+BMS,Mato Grosso do Sul,Brazil,BSP,São Paulo,Brazil
+BMG,Minas Gerais,Brazil,BRJ,Rio de Janeiro,Brazil
+BPA,Pará,Brazil,BRR,Roraima,Brazil
+BPA,Pará,Brazil,BTO,Tocantins,Brazil
+BPB,Paraíba,Brazil,BPE,Pernambuco,Brazil
+BPB,Paraíba,Brazil,BRG,Rio Grande do Norte,Brazil
+BPR,Paraná,Brazil,ARE,Argentine Northeast,South South America
+BPE,Pernambuco,Brazil,BPI,Piauí,Brazil
+BPI,Piauí,Brazil,BTO,Tocantins,Brazil
+BRJ,Rio de Janeiro,Brazil,BSP,São Paulo,Brazil
+BRS,Rio Grande do Sul,Brazil,BSC,Santa Catarina,Brazil
+BRS,Rio Grande do Sul,Brazil,URY,Uruguay,South South America
+BRS,Rio Grande do Sul,Brazil,ARE,Argentine Northeast,South South America
+BSC,Santa Catarina,Brazil,ARE,Argentine Northeast,South South America
+ARE,Argentine Northeast,South South America,ARP,Pampas,South South America
+ARE,Argentine Northeast,South South America,ARW,Argentine Northwest,South South America
+ARE,Argentine Northeast,South South America,URY,Uruguay,South South America
+ARW,Argentine Northwest,South South America,CLN,Northern Chile,South South America
+ARW,Argentine Northwest,South South America,ARP,Pampas,South South America
+ARW,Argentine Northwest,South South America,ARC,Cuyo,South South America
+ARC,Cuyo,South South America,ARP,Pampas,South South America
+ARC,Cuyo,South South America,PTA,Patagonia,South South America
+ARC,Cuyo,South South America,CLS,Southern Chile,South South America
+ARC,Cuyo,South South America,CLN,Northern Chile,South South America
+ARC,Cuyo,South South America,CLM,Metropolitan Chile,South South America
+ARP,Pampas,South South America,PTA,Patagonia,South South America
+LIT,Lithuania,Northern Europe,KLG,Kaliningrad,Eastern Europe
+NEE,North East England,Northern Europe,SCT,Scotland,Northern Europe
+NEE,North East England,Northern Europe,NWE,North West England,Northern Europe
+NEE,North East England,Northern Europe,YSH,Yorkshire and the Humber,Northern Europe
+AND,Andorra,Western Europe,OCC,Occitanie,Western Europe
+AND,Andorra,Western Europe,ESS,East Spain,Southern Europe
+WAL,Wallonia,Western Europe,RP,Rhineland-Palatinate,Western Europe
+GES,Grand Est,Western Europe,RP,Rhineland-Palatinate,Western Europe
+PAC,Provence-Alpes-Côte d'Azur,Western Europe,MCO,Monaco,Western Europe
+BDW,Baden-Württemberg,Western Europe,RP,Rhineland-Palatinate,Western Europe
+BB,Brandenburg,Western Europe,MV,Mecklenburg-Vorpommern,Western Europe
+BB,Brandenburg,Western Europe,ST,Saxony-Anhalt,Western Europe
+HB,Bremen,Western Europe,NI,Lower Saxony,Western Europe
+HE,Hesse,Western Europe,RP,Rhineland-Palatinate,Western Europe
+NI,Lower Saxony,Western Europe,ST,Saxony-Anhalt,Western Europe
+NI,Lower Saxony,Western Europe,MV,Mecklenburg-Vorpommern,Western Europe
+MV,Mecklenburg-Vorpommern,Western Europe,POM,Pomerania,Eastern Europe
+MV,Mecklenburg-Vorpommern,Western Europe,SH,Schleswig-Holstein,Western Europe
+NRW,North Rhine-Westphalia,Western Europe,RP,Rhineland-Palatinate,Western Europe
+RP,Rhineland-Palatinate,Western Europe,SL,Saarland,Western Europe
+RP,Rhineland-Palatinate,Western Europe,LUX,Luxembourg,Western Europe
+SN,Saxony,Western Europe,ST,Saxony-Anhalt,Western Europe
+ST,Saxony-Anhalt,Western Europe,TH,Thuringia,Western Europe
+MDA,Moldova,Eastern Europe,SUA,South Ukraine,Eastern Europe
+MDA,Moldova,Eastern Europe,MDV,Moldavia,Eastern Europe
+MDA,Moldova,Eastern Europe,TSN,Transnistria,Eastern Europe
+POM,Pomerania,Eastern Europe,KLG,Kaliningrad,Eastern Europe
+MDV,Moldavia,Eastern Europe,TRA,Transylvania,Eastern Europe
+MDV,Moldavia,Eastern Europe,WUA,West Ukraine,Eastern Europe
+MDV,Moldavia,Eastern Europe,WLA,Wallachia,Eastern Europe
+WLA,Wallachia,Eastern Europe,SUA,South Ukraine,Eastern Europe
+CER,Central Russia,Eastern Europe,EUA,East Ukraine,Eastern Europe
+NCR,North Caucasian Russia,Eastern Europe,SOR,Southern Russia,Eastern Europe
+NCR,North Caucasian Russia,Eastern Europe,GEO,Georgia,West Asia
+NCR,North Caucasian Russia,Eastern Europe,AZP,Azerbaijan Proper,West Asia
+NCR,North Caucasian Russia,Eastern Europe,ABK,Abkhazia,West Asia
+NCR,North Caucasian Russia,Eastern Europe,SOS,South Ossetia,West Asia
+SOR,Southern Russia,Eastern Europe,EUA,East Ukraine,Eastern Europe
+SOR,Southern Russia,Eastern Europe,ABK,Abkhazia,West Asia
+SOR,Southern Russia,Eastern Europe,SUA,South Ukraine,Eastern Europe
+TSN,Transnistria,Eastern Europe,SUA,South Ukraine,Eastern Europe
+TSN,Transnistria,Eastern Europe,CUA,Central Ukraine,Eastern Europe
+CUA,Central Ukraine,Eastern Europe,SUA,South Ukraine,Eastern Europe
+CUA,Central Ukraine,Eastern Europe,EUA,East Ukraine,Eastern Europe
+EUA,East Ukraine,Eastern Europe,SUA,South Ukraine,Eastern Europe
+CTI,Central Italy,Southern Europe,SMR,San Marino,Southern Europe
+NEI,Northeast Italy,Southern Europe,SMR,San Marino,Southern Europe
+SUS,South Spain,Southern Europe,GIB,Gibraltar,Southern Europe
+DZS,Algerian Sahara,Northern Africa,DZC,Central Algeria,Northern Africa
+DZS,Algerian Sahara,Northern Africa,DZW,Western Algeria,Northern Africa
+DZS,Algerian Sahara,Northern Africa,MLN,Northern Mali (Azawad),Western Africa
+DZS,Algerian Sahara,Northern Africa,NNE,Northern Niger,Western Africa
+DZS,Algerian Sahara,Northern Africa,MRT,Mauritania,Western Africa
+DZS,Algerian Sahara,Northern Africa,TUN,Tunisia,Northern Africa
+DZC,Central Algeria,Northern Africa,DZW,Western Algeria,Northern Africa
+DZC,Central Algeria,Northern Africa,DZE,Eastern Algeria,Northern Africa
+DZE,Eastern Algeria,Northern Africa,TUN,Tunisia,Northern Africa
+DZW,Western Algeria,Northern Africa,MAT,Moroccan Atlas,Northern Africa
+DZW,Western Algeria,Northern Africa,RIF,Rif,Northern Africa
+MRT,Mauritania,Western Africa,SEN,Senegal,Western Africa
+SEN,Senegal,Western Africa,GMB,The Gambia,Western Africa
+SEN,Senegal,Western Africa,MLS,Southern Mali (Bamako),Western Africa
+SEN,Senegal,Western Africa,GIN,Guinea,Western Africa
+SEN,Senegal,Western Africa,GNB,Guinea-Bissau,Western Africa
+SEN,Senegal,Western Africa,CPV,Cape Verde,Western Africa
+GNB,Guinea-Bissau,Western Africa,GIN,Guinea,Western Africa
+ALX,Alexandria,Northern Africa,CAI,Greater Cairo,Northern Africa
+ALX,Alexandria,Northern Africa,LBY,Libya,Northern Africa
+ALX,Alexandria,Northern Africa,EGL,Lower Egypt,Northern Africa
+ALX,Alexandria,Northern Africa,EGM,Middle Egypt,Northern Africa
+ALX,Alexandria,Northern Africa,EGU,Upper Egypt,Northern Africa
+CAI,Greater Cairo,Northern Africa,EGM,Middle Egypt,Northern Africa
+CAI,Greater Cairo,Northern Africa,SUZ,Sinai & Suez,Northern Africa
+CAI,Greater Cairo,Northern Africa,EGL,Lower Egypt,Northern Africa
+CAI,Greater Cairo,Northern Africa,EGR,Egyptian Red Sea,Northern Africa
+EGL,Lower Egypt,Northern Africa,SUZ,Sinai & Suez,Northern Africa
+EGM,Middle Egypt,Northern Africa,EGR,Egyptian Red Sea,Northern Africa
+EGM,Middle Egypt,Northern Africa,EGU,Upper Egypt,Northern Africa
+SUZ,Sinai & Suez,Northern Africa,ISR,Israel,West Asia
+SUZ,Sinai & Suez,Northern Africa,EGR,Egyptian Red Sea,Northern Africa
+EGU,Upper Egypt,Northern Africa,EGR,Egyptian Red Sea,Northern Africa
+EGU,Upper Egypt,Northern Africa,NSD,Northern Sudan,Northern Africa
+EGU,Upper Egypt,Northern Africa,LBY,Libya,Northern Africa
+EGR,Egyptian Red Sea,Northern Africa,NSD,Northern Sudan,Northern Africa
+LBY,Libya,Northern Africa,TUN,Tunisia,Northern Africa
+LBY,Libya,Northern Africa,TCD,Chad,Central Africa
+LBY,Libya,Northern Africa,NNE,Northern Niger,Western Africa
+LBY,Libya,Northern Africa,WSD,Western Sudan,Northern Africa
+MAT,Moroccan Atlas,Northern Africa,ESH,Western Sahara,Northern Africa
+ESH,Western Sahara,Northern Africa,MRT,Mauritania,Western Africa
+ESD,Eastern Sudan,Northern Africa,EAM,Amhara Region,Eastern Africa
+ESD,Eastern Sudan,Northern Africa,ERI,Eritrea,Eastern Africa
+ESD,Eastern Sudan,Northern Africa,EBE,Benishangul-Gumuz Region,Eastern Africa
+ESD,Eastern Sudan,Northern Africa,WSD,Western Sudan,Northern Africa
+ESD,Eastern Sudan,Northern Africa,NSD,Northern Sudan,Northern Africa
+ESD,Eastern Sudan,Northern Africa,ETI,Tigray Region,Eastern Africa
+NSD,Northern Sudan,Northern Africa,WSD,Western Sudan,Northern Africa
+WSD,Western Sudan,Northern Africa,TCD,Chad,Central Africa
+TCD,Chad,Central Africa,NNE,Northern Niger,Western Africa
+TCD,Chad,Central Africa,NGB,Borno,Western Africa
+TCD,Chad,Central Africa,CMN,Northern Cameroon,Central Africa
+CAF,Central African Republic,Central Africa,SSD,South Sudan,Eastern Africa
+CAF,Central African Republic,Central Africa,WSD,Western Sudan,Northern Africa
+CAF,Central African Republic,Central Africa,TCD,Chad,Central Africa
+CAF,Central African Republic,Central Africa,CMN,Northern Cameroon,Central Africa
+CAF,Central African Republic,Central Africa,CMP,Cameroon Plateau,Central Africa
+CAF,Central African Republic,Central Africa,COG,The Republic of the Congo,Central Africa
+CAF,Central African Republic,Central Africa,CDN,North Congo,Central Africa
+CMP,Cameroon Plateau,Central Africa,CMN,Northern Cameroon,Central Africa
+CMP,Cameroon Plateau,Central Africa,CMW,Western Cameroon,Central Africa
+CMP,Cameroon Plateau,Central Africa,GNQ,Equitorial Guinea,Central Africa
+CMP,Cameroon Plateau,Central Africa,GAB,Gabon,Central Africa
+CMP,Cameroon Plateau,Central Africa,COG,The Republic of the Congo,Central Africa
+CMN,Northern Cameroon,Central Africa,CMW,Western Cameroon,Central Africa
+CMN,Northern Cameroon,Central Africa,NGB,Borno,Western Africa
+GAB,Gabon,Central Africa,COG,The Republic of the Congo,Central Africa
+GAB,Gabon,Central Africa,GNQ,Equitorial Guinea,Central Africa
+COG,The Republic of the Congo,Central Africa,AOC,Cabinda,Central Africa
+COG,The Republic of the Congo,Central Africa,CDC,Central Congo,Central Africa
+COG,The Republic of the Congo,Central Africa,CDK,Kinshasa,Central Africa
+COG,The Republic of the Congo,Central Africa,CDB,Bandundu,Central Africa
+COG,The Republic of the Congo,Central Africa,CDN,North Congo,Central Africa
+CDC,Central Congo,Central Africa,AOC,Cabinda,Central Africa
+CDC,Central Congo,Central Africa,CDK,Kinshasa,Central Africa
+CDC,Central Congo,Central Africa,CDB,Bandundu,Central Africa
+CDC,Central Congo,Central Africa,AON,Northwest Angola,Central Africa
+CDB,Bandundu,Central Africa,CDK,Kinshasa,Central Africa
+CDB,Bandundu,Central Africa,AON,Northwest Angola,Central Africa
+CDB,Bandundu,Central Africa,AOE,Eastern Angola,Central Africa
+CDB,Bandundu,Central Africa,CDN,North Congo,Central Africa
+CDB,Bandundu,Central Africa,CDS,Kasai,Central Africa
+CDS,Kasai,Central Africa,CDT,Katanga,Central Africa
+CDS,Kasai,Central Africa,CDV,Kivu,Central Africa
+CDS,Kasai,Central Africa,CDN,North Congo,Central Africa
+CDS,Kasai,Central Africa,AOE,Eastern Angola,Central Africa
+CDT,Katanga,Central Africa,AOE,Eastern Angola,Central Africa
+CDT,Katanga,Central Africa,CDV,Kivu,Central Africa
+CDV,Kivu,Central Africa,CDN,North Congo,Central Africa
+AON,Northwest Angola,Central Africa,AOE,Eastern Angola,Central Africa
+AON,Northwest Angola,Central Africa,AOS,Southwest Angola,Central Africa
+AOE,Eastern Angola,Central Africa,AOS,Southwest Angola,Central Africa
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,(Missing),(Missing)
+,,,,(Missing),(Missing)
+,,,,(Missing),(Missing)
+MRT,Mauritania,Western Africa,MLN,Northern Mali (Azawad),Western Africa
+MRT,Mauritania,Western Africa,MLS,Southern Mali (Bamako),Western Africa
+MLS,Southern Mali (Bamako),Western Africa,MLN,Northern Mali (Azawad),Western Africa
+MLS,Southern Mali (Bamako),Western Africa,GIN,Guinea,Western Africa
+MLS,Southern Mali (Bamako),Western Africa,CIN,Northern Côte d'Ivoire,Western Africa
+MLS,Southern Mali (Bamako),Western Africa,BFW,Western Burkina Faso,Western Africa
+MLN,Northern Mali (Azawad),Western Africa,NNE,Northern Niger,Western Africa
+MLN,Northern Mali (Azawad),Western Africa,SNE,Southern Niger,Western Africa
+MLN,Northern Mali (Azawad),Western Africa,BFE,Eastern Burkina Faso,Western Africa
+MLN,Northern Mali (Azawad),Western Africa,BFW,Western Burkina Faso,Western Africa
+SNE,Southern Niger,Western Africa,NNE,Northern Niger,Western Africa
+SNE,Southern Niger,Western Africa,NSK,Sokoto,Western Africa
+SNE,Southern Niger,Western Africa,BFE,Eastern Burkina Faso,Western Africa
+NNE,Northern Niger,Western Africa,NGB,Borno,Western Africa
+NNE,Northern Niger,Western Africa,NGJ,Jigawa,Western Africa
+NNE,Northern Niger,Western Africa,NKT,Katsina,Western Africa
+NNE,Northern Niger,Western Africa,NSK,Sokoto,Western Africa
+BFE,Eastern Burkina Faso,Western Africa,BFW,Western Burkina Faso,Western Africa
+BFW,Western Burkina Faso,Western Africa,CIN,Northern Côte d'Ivoire,Western Africa
+GIN,Guinea,Western Africa,LBR,Liberia,Western Africa
+GIN,Guinea,Western Africa,SLE,Sierra Leone,Western Africa
+GIN,Guinea,Western Africa,CIN,Northern Côte d'Ivoire,Western Africa
+SLE,Sierra Leone,Western Africa,LBR,Liberia,Western Africa
+LBR,Liberia,Western Africa,CIN,Northern Côte d'Ivoire,Western Africa
+LBR,Liberia,Western Africa,CIS,Southern Côte d'Ivoire,Western Africa
+CIN,Northern Côte d'Ivoire,Western Africa,CIS,Southern Côte d'Ivoire,Western Africa
+DJI,Djibouti,Eastern Africa,EAF,Afar Region,Eastern Africa
+DJI,Djibouti,Eastern Africa,SOL,Somaliland,Eastern Africa
+DJI,Djibouti,Eastern Africa,ESO,Somali Region,Eastern Africa
+EAF,Afar Region,Eastern Africa,ETI,Tigray Region,Eastern Africa
+EAF,Afar Region,Eastern Africa,EAM,Amhara Region,Eastern Africa
+EAF,Afar Region,Eastern Africa,ESO,Somali Region,Eastern Africa
+EAF,Afar Region,Eastern Africa,EOR,Oromia Region,Eastern Africa
+EAF,Afar Region,Eastern Africa,ERI,Eritrea,Eastern Africa
+EAM,Amhara Region,Eastern Africa,EBE,Benishangul-Gumuz Region,Eastern Africa
+EAM,Amhara Region,Eastern Africa,ETI,Tigray Region,Eastern Africa
+EAM,Amhara Region,Eastern Africa,EOR,Oromia Region,Eastern Africa
+EBE,Benishangul-Gumuz Region,Eastern Africa,EOR,Oromia Region,Eastern Africa
+EGA,Gambela Region,Eastern Africa,EOR,Oromia Region,Eastern Africa
+EGA,Gambela Region,Eastern Africa,ESN,"Southern Nations, Nationalities, and Peoples' Region",Eastern Africa
+EOR,Oromia Region,Eastern Africa,ESN,"Southern Nations, Nationalities, and Peoples' Region",Eastern Africa
+EOR,Oromia Region,Eastern Africa,ESO,Somali Region,Eastern Africa
+EOR,Oromia Region,Eastern Africa,ESI,Sidama Region,Eastern Africa
+ESI,Sidama Region,Eastern Africa,ESN,"Southern Nations, Nationalities, and Peoples' Region",Eastern Africa
+ESO,Somali Region,Eastern Africa,SOL,Somaliland,Eastern Africa
+ETI,Tigray Region,Eastern Africa,ERI,Eritrea,Eastern Africa
+SSD,South Sudan,Eastern Africa,EBE,Benishangul-Gumuz Region,Eastern Africa
+SSD,South Sudan,Eastern Africa,EGA,Gambela Region,Eastern Africa
+SSD,South Sudan,Eastern Africa,EOR,Oromia Region,Eastern Africa
+SSD,South Sudan,Eastern Africa,ESN,"Southern Nations, Nationalities, and Peoples' Region",Eastern Africa
+SSD,South Sudan,Eastern Africa,CAF,Central African Republic,Central Africa
+SSD,South Sudan,Eastern Africa,ESD,Eastern Sudan,Northern Africa
+SSD,South Sudan,Eastern Africa,WSD,Western Sudan,Northern Africa
+SSD,South Sudan,Eastern Africa,CDN,North Congo,Central Africa
+ABK,Abkhazia,West Asia,GEO,Georgia,West Asia
+ARM,Armenia,West Asia,EAT,Eastern Anatolia,West Asia
+ARM,Armenia,West Asia,AZP,Azerbaijan Proper,West Asia
+ARM,Armenia,West Asia,GEO,Georgia,West Asia
+ARM,Armenia,West Asia,AZN,Nakhchevan,West Asia
+ARM,Armenia,West Asia,IRH,Iran Region Three,West Asia
+AZP,Azerbaijan Proper,West Asia,GEO,Georgia,West Asia
+AZP,Azerbaijan Proper,West Asia,IRH,Iran Region Three,West Asia
+AZP,Azerbaijan Proper,West Asia,NGK,Nagorno-Karabakh,West Asia
+AZN,Nakhchevan,West Asia,IRH,Iran Region Three,West Asia
+CYP,Cyprus,West Asia,NCY,Northern Cyprus,West Asia
+GEO,Georgia,West Asia,EAT,Eastern Anatolia,West Asia
+GEO,Georgia,West Asia,SOS,South Ossetia,West Asia
+IRV,Iran Region Five,West Asia,AFS,Southern Afghanistan,Central Asia
+IRF,Iran Region Four,West Asia,EIQ,Southeast Iraq,West Asia
+IRF,Iran Region Four,West Asia,IRH,Iran Region Three,West Asia
+IRO,Iran Region One,West Asia,IRH,Iran Region Three,West Asia
+IRH,Iran Region Three,West Asia,NIQ,North Iraq,West Asia
+IRH,Iran Region Three,West Asia,EAT,Eastern Anatolia,West Asia
+MIQ,Middle Iraq,West Asia,WIQ,Southwest Iraq,West Asia
+MIQ,Middle Iraq,West Asia,EIQ,Southeast Iraq,West Asia
+NIQ,North Iraq,West Asia,EAT,Eastern Anatolia,West Asia
+NIQ,North Iraq,West Asia,SAT,Southeastern Anatolia,West Asia
+EIQ,Southeast Iraq,West Asia,KWT,Kuwait,West Asia
+EIQ,Southeast Iraq,West Asia,WIQ,Southwest Iraq,West Asia
+WIQ,Southwest Iraq,West Asia,NAJ,Najd,West Asia
+KWT,Kuwait,West Asia,NAJ,Najd,West Asia
+OMN,Oman,West Asia,NJR,Najran,West Asia
+HEJ,Hejaz,West Asia,NJR,Najran,West Asia
+NAJ,Najd,West Asia,NJR,Najran,West Asia
+NJR,Najran,West Asia,NYE,North Yemen,West Asia
+NJR,Najran,West Asia,SYE,South Yemen,West Asia
+ESY,Eastern Syria,West Asia,SAT,Southeastern Anatolia,West Asia
+WSY,Western Syria,West Asia,SAT,Southeastern Anatolia,West Asia
+BLS,Black Sea Turkey,West Asia,EAT,Eastern Anatolia,West Asia
+CAT,Central Anatolia,West Asia,EAT,Eastern Anatolia,West Asia
+EAT,Eastern Anatolia,West Asia,SAT,Southeastern Anatolia,West Asia
+EAT,Eastern Anatolia,West Asia,MTR,Mediterranean Turkey,West Asia
+MTR,Mediterranean Turkey,West Asia,SAT,Southeastern Anatolia,West Asia
+AFE,Eastern Afghanistan,Central Asia,AFS,Southern Afghanistan,Central Asia
+AFN,Northern Afghanistan,Central Asia,PGB,Gilgit-Baltistan,South Asia
+AFS,Southern Afghanistan,Central Asia,PBL,Balochistan,South Asia
+AFS,Southern Afghanistan,Central Asia,PKP,Khyber Pakhtunkhwa,South Asia
+AFS,Southern Afghanistan,Central Asia,AFW,Western Afghanistan,Central Asia
+ANH,Anhui,East Asia,JGX,Jiangxi,East Asia
+ANH,Anhui,East Asia,JGS,Jiangsu,East Asia
+ANH,Anhui,East Asia,ZJG,Zhejiang,East Asia
+ANH,Anhui,East Asia,HUB,Hubei,East Asia
+ANH,Anhui,East Asia,HNA,Henan,East Asia
+ANH,Anhui,East Asia,SHD,Shandong,East Asia
+BEJ,Beijing,East Asia,HEB,Hebei,East Asia
+BEJ,Beijing,East Asia,TNJ,Tianjin,East Asia
+CHQ,Chongjing,East Asia,SCN,Sichuan,East Asia
+CHQ,Chongjing,East Asia,GUZ,Guizhou,East Asia
+CHQ,Chongjing,East Asia,HUB,Hubei,East Asia
+CHQ,Chongjing,East Asia,HNN,Hunan,East Asia
+CHQ,Chongjing,East Asia,SNX,Shaanxi,East Asia
+FUJ,Fujian,East Asia,ZJG,Zhejiang,East Asia
+FUJ,Fujian,East Asia,GND,Guangdong,East Asia
+FUJ,Fujian,East Asia,JGX,Jiangxi,East Asia
+GNS,Gansu,East Asia,IMN,Inner Mongolia,East Asia
+GNS,Gansu,East Asia,QGH,Qinghai,East Asia
+GNS,Gansu,East Asia,XJ,Xinjiang,East Asia
+GNS,Gansu,East Asia,NGX,Ningxia,East Asia
+GNS,Gansu,East Asia,SNX,Shaanxi,East Asia
+GNS,Gansu,East Asia,SCN,Sichuan,East Asia
+GNS,Gansu,East Asia,MGL,Mongolia,East Asia
+GND,Guangdong,East Asia,HNN,Hunan,East Asia
+GND,Guangdong,East Asia,GNX,Guangxi,East Asia
+GND,Guangdong,East Asia,JGX,Jiangxi,East Asia
+GND,Guangdong,East Asia,HKG,Hong Kong,East Asia
+GND,Guangdong,East Asia,MAO,Macao,East Asia
+GNX,Guangxi,East Asia,YUN,Yunnan,East Asia
+GNX,Guangxi,East Asia,HNN,Hunan,East Asia
+GNX,Guangxi,East Asia,GUZ,Guizhou,East Asia
+GNX,Guangxi,East Asia,VNE,Northeast Vietnam,Southeast Asia
+GUZ,Guizhou,East Asia,YUN,Yunnan,East Asia
+GUZ,Guizhou,East Asia,HNN,Hunan,East Asia
+GUZ,Guizhou,East Asia,SCN,Sichuan,East Asia
+HEB,Hebei,East Asia,SHX,Shanxi,East Asia
+HEB,Hebei,East Asia,HNA,Henan,East Asia
+HEB,Hebei,East Asia,IMN,Inner Mongolia,East Asia
+HEB,Hebei,East Asia,SHD,Shandong,East Asia
+HEB,Hebei,East Asia,TNJ,Tianjin,East Asia
+HEB,Hebei,East Asia,LNG,Liaoning,East Asia
+HLJ,Heilongjiang,East Asia,FER,Far Eastern Russia,North Asia
+HLJ,Heilongjiang,East Asia,JLN,Jilin,East Asia
+HLJ,Heilongjiang,East Asia,IMN,Inner Mongolia,East Asia
+HNA,Henan,East Asia,SHX,Shanxi,East Asia
+HNA,Henan,East Asia,SHD,Shandong,East Asia
+HNA,Henan,East Asia,SNX,Shaanxi,East Asia
+HNA,Henan,East Asia,HUB,Hubei,East Asia
+HUB,Hubei,East Asia,SNX,Shaanxi,East Asia
+HUB,Hubei,East Asia,HNN,Hunan,East Asia
+HUB,Hubei,East Asia,JGX,Jiangxi,East Asia
+HNN,Hunan,East Asia,JGX,Jiangxi,East Asia
+IMN,Inner Mongolia,East Asia,NGX,Ningxia,East Asia
+IMN,Inner Mongolia,East Asia,SHX,Shanxi,East Asia
+JGS,Jiangsu,East Asia,SHD,Shandong,East Asia
+JGS,Jiangsu,East Asia,ZJG,Zhejiang,East Asia
+JGS,Jiangsu,East Asia,SGH,Shanghai,East Asia
+JGX,Jiangxi,East Asia,ZJG,Zhejiang,East Asia
+NGX,Ningxia,East Asia,SNX,Shaanxi,East Asia
+QGH,Qinghai,East Asia,SCN,Sichuan,East Asia
+QGH,Qinghai,East Asia,XJ,Xinjiang,East Asia
+QGH,Qinghai,East Asia,TIB,Tibet,East Asia
+SNX,Shaanxi,East Asia,SHX,Shanxi,East Asia
+SGH,Shanghai,East Asia,ZJG,Zhejiang,East Asia
+SCN,Sichuan,East Asia,YUN,Yunnan,East Asia
+TIB,Tibet,East Asia,ILA,Ladakh,South Asia
+TIB,Tibet,East Asia,ENP,Eastern Nepal,South Asia
+TIB,Tibet,East Asia,WNP,Western Nepal,South Asia
+TIB,Tibet,East Asia,BTN,Bhutan,South Asia
+TIB,Tibet,East Asia,IAR,Arunachal Pradesh,South Asia
+TIB,Tibet,East Asia,ISK,Sikkim,South Asia
+TIB,Tibet,East Asia,YUN,Yunnan,East Asia
+TIB,Tibet,East Asia,IUT,Uttarakhand,South Asia
+XJ,Xinjiang,East Asia,PGB,Gilgit-Baltistan,South Asia
+XJ,Xinjiang,East Asia,ILA,Ladakh,South Asia
+YUN,Yunnan,East Asia,EMM,Northeast Myanmar,Southeast Asia
+YUN,Yunnan,East Asia,LAO,Laos,Southeast Asia
+CHB,Chubu,East Asia,THK,Tohoku,East Asia
+CHB,Chubu,East Asia,KNT,Kanto,East Asia
+CHB,Chubu,East Asia,KNS,Kansai,East Asia
+CHG,Chugoku,East Asia,KNS,Kansai,East Asia
+CHG,Chugoku,East Asia,KYS,Kyushu,East Asia
+SHK,Shikoku,East Asia,KNS,Kansai,East Asia
+SHK,Shikoku,East Asia,CHG,Chugoku,East Asia
+SHK,Shikoku,East Asia,KYS,Kyushu,East Asia
+KNT,Kanto,East Asia,THK,Tohoku,East Asia
+PRK,North Korea,East Asia,GWN,Gangwon,East Asia
+CHC,Chungcheong,East Asia,NGS,North Gyeongsang,East Asia
+CHC,Chungcheong,East Asia,JOL,Jeolla,East Asia
+CHC,Chungcheong,East Asia,GNG,Gyeonggi,East Asia
+CHC,Chungcheong,East Asia,GWN,Gangwon,East Asia
+GWN,Gangwon,East Asia,GNG,Gyeonggi,East Asia
+GWN,Gangwon,East Asia,NGS,North Gyeongsang,East Asia
+JOL,Jeolla,East Asia,SGS,South Gyeongsang,East Asia
+JOL,Jeolla,East Asia,NGS,North Gyeongsang,East Asia
+JOL,Jeolla,East Asia,JJU,Jeju,East Asia
+JJU,Jeju,East Asia,KYS,Kyushu,East Asia
+NGS,North Gyeongsang,East Asia,SGS,South Gyeongsang,East Asia
+BDB,Barisal,South Asia,BDD,Dhaka,South Asia
+BDB,Barisal,South Asia,BDK,Khulna,South Asia
+BDB,Barisal,South Asia,BDC,Chattogram,South Asia
+BDC,Chattogram,South Asia,WMM,Northwest Myanmar,Southeast Asia
+BDC,Chattogram,South Asia,IMZ,Mizoram,South Asia
+BDC,Chattogram,South Asia,BDD,Dhaka,South Asia
+BDC,Chattogram,South Asia,RKM,Rakhine,Southeast Asia
+BDC,Chattogram,South Asia,ITR,Tripura,South Asia
+BDC,Chattogram,South Asia,BDS,Sylhet,South Asia
+BDD,Dhaka,South Asia,BDM,Mymensingh,South Asia
+BDD,Dhaka,South Asia,BDK,Khulna,South Asia
+BDD,Dhaka,South Asia,BDJ,Rajshahi,South Asia
+BDD,Dhaka,South Asia,BDS,Sylhet,South Asia
+BDK,Khulna,South Asia,IWB,West Bengal,South Asia
+BDK,Khulna,South Asia,BDJ,Rajshahi,South Asia
+BDM,Mymensingh,South Asia,IML,Meghalaya,South Asia
+BDM,Mymensingh,South Asia,BDS,Sylhet,South Asia
+BDM,Mymensingh,South Asia,BDJ,Rajshahi,South Asia
+BDM,Mymensingh,South Asia,BDR,Rangpur,South Asia
+BDJ,Rajshahi,South Asia,IWB,West Bengal,South Asia
+BDJ,Rajshahi,South Asia,BDR,Rangpur,South Asia
+BDR,Rangpur,South Asia,IWB,West Bengal,South Asia
+BDR,Rangpur,South Asia,IAS,Assam,South Asia
+BDR,Rangpur,South Asia,IML,Meghalaya,South Asia
+BDS,Sylhet,South Asia,ITR,Tripura,South Asia
+BDS,Sylhet,South Asia,IAS,Assam,South Asia
+BDS,Sylhet,South Asia,IML,Meghalaya,South Asia
+BTN,Bhutan,South Asia,IAS,Assam,South Asia
+BTN,Bhutan,South Asia,IWB,West Bengal,South Asia
+BTN,Bhutan,South Asia,IAR,Arunachal Pradesh,South Asia
+BTN,Bhutan,South Asia,ISK,Sikkim,South Asia
+IAP,Andhra Pradesh,South Asia,IKA,Karnataka,South Asia
+IAP,Andhra Pradesh,South Asia,ITN,Tamil Nadu,South Asia
+IAP,Andhra Pradesh,South Asia,ITG,Telangana,South Asia
+IAP,Andhra Pradesh,South Asia,IOR,Odisha,South Asia
+IAR,Arunachal Pradesh,South Asia,IAS,Assam,South Asia
+IAR,Arunachal Pradesh,South Asia,WMM,Northwest Myanmar,Southeast Asia
+IAR,Arunachal Pradesh,South Asia,EMM,Northeast Myanmar,Southeast Asia
+IAR,Arunachal Pradesh,South Asia,INL,Nagaland,South Asia
+IAS,Assam,South Asia,IML,Meghalaya,South Asia
+IAS,Assam,South Asia,INL,Nagaland,South Asia
+IAS,Assam,South Asia,IMZ,Mizoram,South Asia
+IAS,Assam,South Asia,IWB,West Bengal,South Asia
+IAS,Assam,South Asia,ITR,Tripura,South Asia
+IAS,Assam,South Asia,IMU,Manipur,South Asia
+IBR,Bihar,South Asia,ENP,Eastern Nepal,South Asia
+IBR,Bihar,South Asia,IWB,West Bengal,South Asia
+IBR,Bihar,South Asia,IJH,Jharkhand,South Asia
+IBR,Bihar,South Asia,IUP,Uttar Pradesh,South Asia
+IBR,Bihar,South Asia,WNP,Western Nepal,South Asia
+ICH,Chandigarh,South Asia,IHR,Haryana,South Asia
+ICT,Chhattisgarh,South Asia,IJH,Jharkhand,South Asia
+ICT,Chhattisgarh,South Asia,IOR,Odisha,South Asia
+ICT,Chhattisgarh,South Asia,IMP,Madhya Pradesh,South Asia
+ICT,Chhattisgarh,South Asia,ITG,Telangana,South Asia
+ICT,Chhattisgarh,South Asia,IMH,Maharashtra,South Asia
+ICT,Chhattisgarh,South Asia,IUP,Uttar Pradesh,South Asia
+IDH,Dadra and Nagar Haveli and Daman and Diu,South Asia,IMH,Maharashtra,South Asia
+IDH,Dadra and Nagar Haveli and Daman and Diu,South Asia,IGJ,Gujarat,South Asia
+IDL,Delhi,South Asia,IHR,Haryana,South Asia
+IGA,Goa,South Asia,IKA,Karnataka,South Asia
+IGA,Goa,South Asia,IMH,Maharashtra,South Asia
+IGJ,Gujarat,South Asia,IRJ,Rajasthan,South Asia
+IGJ,Gujarat,South Asia,PSD,Sindh,South Asia
+IGJ,Gujarat,South Asia,IMP,Madhya Pradesh,South Asia
+IGJ,Gujarat,South Asia,IMH,Maharashtra,South Asia
+IHR,Haryana,South Asia,IUP,Uttar Pradesh,South Asia
+IHR,Haryana,South Asia,IHP,Himachal Pradesh,South Asia
+IHR,Haryana,South Asia,IRJ,Rajasthan,South Asia
+IHR,Haryana,South Asia,IPB,Indian Punjab,South Asia
+IHP,Himachal Pradesh,South Asia,IUT,Uttarakhand,South Asia
+IHP,Himachal Pradesh,South Asia,ILA,Ladakh,South Asia
+IHP,Himachal Pradesh,South Asia,IJK,Jammu and Kashmir,South Asia
+IPB,Indian Punjab,South Asia,IRJ,Rajasthan,South Asia
+IPB,Indian Punjab,South Asia,IJK,Jammu and Kashmir,South Asia
+IJK,Jammu and Kashmir,South Asia,ILA,Ladakh,South Asia
+IJK,Jammu and Kashmir,South Asia,PJK,Azad Jammu and Kashmir,South Asia
+IJK,Jammu and Kashmir,South Asia,PPB,Pakistani Punjab,South Asia
+IJK,Jammu and Kashmir,South Asia,PGB,Gilgit-Baltistan,South Asia
+IJH,Jharkhand,South Asia,IOR,Odisha,South Asia
+IKA,Karnataka,South Asia,ITG,Telangana,South Asia
+IKA,Karnataka,South Asia,IMH,Maharashtra,South Asia
+IKA,Karnataka,South Asia,IKL,Kerala,South Asia
+IKA,Karnataka,South Asia,ITN,Tamil Nadu,South Asia
+IKL,Kerala,South Asia,ITN,Tamil Nadu,South Asia
+IKL,Kerala,South Asia,ILD,Lakshadweep,South Asia
+ILA,Ladakh,South Asia,PGB,Gilgit-Baltistan,South Asia
+IMP,Madhya Pradesh,South Asia,IRJ,Rajasthan,South Asia
+IMP,Madhya Pradesh,South Asia,IMH,Maharashtra,South Asia
+IMP,Madhya Pradesh,South Asia,IUP,Uttar Pradesh,South Asia
+IMH,Maharashtra,South Asia,ITG,Telangana,South Asia
+IMU,Manipur,South Asia,IMZ,Mizoram,South Asia
+IMU,Manipur,South Asia,WMM,Northwest Myanmar,Southeast Asia
+IMU,Manipur,South Asia,INL,Nagaland,South Asia
+IMZ,Mizoram,South Asia,WMM,Northwest Myanmar,Southeast Asia
+IMZ,Mizoram,South Asia,ITR,Tripura,South Asia
+INL,Nagaland,South Asia,WMM,Northwest Myanmar,Southeast Asia
+IOR,Odisha,South Asia,IWB,West Bengal,South Asia
+IOR,Odisha,South Asia,ITG,Telangana,South Asia
+IPY,Puducherry,South Asia,ITN,Tamil Nadu,South Asia
+IPY,Puducherry,South Asia,IKL,Kerala,South Asia
+IPY,Puducherry,South Asia,IAP,Andhra Pradesh,South Asia
+IRJ,Rajasthan,South Asia,PPB,Pakistani Punjab,South Asia
+IRJ,Rajasthan,South Asia,IUP,Uttar Pradesh,South Asia
+IRJ,Rajasthan,South Asia,PSD,Sindh,South Asia
+ISK,Sikkim,South Asia,IWB,West Bengal,South Asia
+ISK,Sikkim,South Asia,ENP,Eastern Nepal,South Asia
+LKN,North Sri Lanka,South Asia,ITN,Tamil Nadu,South Asia
+LKN,North Sri Lanka,South Asia,LKS,South Sri Lanka,South Asia
+IUP,Uttar Pradesh,South Asia,WNP,Western Nepal,South Asia
+IUP,Uttar Pradesh,South Asia,IUT,Uttarakhand,South Asia
+IUT,Uttarakhand,South Asia,WNP,Western Nepal,South Asia
+IWB,West Bengal,South Asia,ENP,Eastern Nepal,South Asia
+ENP,Eastern Nepal,South Asia,WNP,Western Nepal,South Asia
+PJK,Azad Jammu and Kashmir,South Asia,PPB,Pakistani Punjab,South Asia
+PJK,Azad Jammu and Kashmir,South Asia,PKP,Khyber Pakhtunkhwa,South Asia
+PJK,Azad Jammu and Kashmir,South Asia,PGB,Gilgit-Baltistan,South Asia
+PBL,Balochistan,South Asia,PSD,Sindh,South Asia
+PGB,Gilgit-Baltistan,South Asia,PKP,Khyber Pakhtunkhwa,South Asia
+PPB,Pakistani Punjab,South Asia,PSD,Sindh,South Asia
+ACI,Aceh,Southeast Asia,SUI,North Sumatra,Southeast Asia
+BTI,Banten,Southeast Asia,JBI,West Java,Southeast Asia
+BTI,Banten,Southeast Asia,JKI,Jakarta,Southeast Asia
+BEI,Bengkulu,Southeast Asia,SSI,South Sumatra,Southeast Asia
+BEI,Bengkulu,Southeast Asia,JAI,Jambi,Southeast Asia
+BEI,Bengkulu,Southeast Asia,SBI,West Sumatra,Southeast Asia
+BEI,Bengkulu,Southeast Asia,LAI,Lampung,Southeast Asia
+JTI,Central Java,Southeast Asia,JBI,West Java,Southeast Asia
+JTI,Central Java,Southeast Asia,JII,East Java,Southeast Asia
+JTI,Central Java,Southeast Asia,YOI,Yogyakarta,Southeast Asia
+KTI,Central Kalimantan,Southeast Asia,KII,East Kalimantan,Southeast Asia
+KTI,Central Kalimantan,Southeast Asia,KSI,South Kalimantan,Southeast Asia
+KTI,Central Kalimantan,Southeast Asia,KBI,West Kalimantan,Southeast Asia
+STI,Central Sulawesi,Southeast Asia,SRI,West Sulawesi,Southeast Asia
+STI,Central Sulawesi,Southeast Asia,SGI,Southeast Sulawesi,Southeast Asia
+STI,Central Sulawesi,Southeast Asia,SNI,South Sulawesi,Southeast Asia
+STI,Central Sulawesi,Southeast Asia,GOI,Gorontalo,Southeast Asia
+KII,East Kalimantan,Southeast Asia,KUI,North Kalimantan,Southeast Asia
+KII,East Kalimantan,Southeast Asia,KSI,South Kalimantan,Southeast Asia
+GOI,Gorontalo,Southeast Asia,SAI,North Sulawesi,Southeast Asia
+JKI,Jakarta,Southeast Asia,JBI,West Java,Southeast Asia
+JBI,West Java,Southeast Asia,AIO,Australian Indian Ocean Territories,Australia and New Zealand
+JAI,Jambi,Southeast Asia,RII,Riau,Southeast Asia
+JAI,Jambi,Southeast Asia,SSI,South Sumatra,Southeast Asia
+JAI,Jambi,Southeast Asia,SBI,West Sumatra,Southeast Asia
+LAI,Lampung,Southeast Asia,SSI,South Sumatra,Southeast Asia
+SUI,North Sumatra,Southeast Asia,SBI,West Sumatra,Southeast Asia
+SUI,North Sumatra,Southeast Asia,RII,Riau,Southeast Asia
+RII,Riau,Southeast Asia,SBI,West Sumatra,Southeast Asia
+SNI,South Sulawesi,Southeast Asia,SRI,West Sulawesi,Southeast Asia
+SNI,South Sulawesi,Southeast Asia,SGI,Southeast Sulawesi,Southeast Asia
+LAO,Laos,Southeast Asia,TNE,Northeastern Thailand,Southeast Asia
+LAO,Laos,Southeast Asia,EMM,Northeast Myanmar,Southeast Asia
+LAO,Laos,Southeast Asia,THN,Northern Thailand,Southeast Asia
+LAO,Laos,Southeast Asia,CHV,Central Vietnam Highlands,Southeast Asia
+KMM,Karen-Karenni Myanmar,Southeast Asia,LMM,Lower Burma,Southeast Asia
+KMM,Karen-Karenni Myanmar,Southeast Asia,THW,Western Thailand,Southeast Asia
+KMM,Karen-Karenni Myanmar,Southeast Asia,EMM,Northeast Myanmar,Southeast Asia
+KMM,Karen-Karenni Myanmar,Southeast Asia,THN,Northern Thailand,Southeast Asia
+KMM,Karen-Karenni Myanmar,Southeast Asia,UMM,Upper Burma,Southeast Asia
+LMM,Lower Burma,Southeast Asia,THW,Western Thailand,Southeast Asia
+EMM,Northeast Myanmar,Southeast Asia,WMM,Northwest Myanmar,Southeast Asia
+EMM,Northeast Myanmar,Southeast Asia,THN,Northern Thailand,Southeast Asia
+WMM,Northwest Myanmar,Southeast Asia,UMM,Upper Burma,Southeast Asia
+WMM,Northwest Myanmar,Southeast Asia,RKM,Rakhine,Southeast Asia
+THN,Northern Thailand,Southeast Asia,THW,Western Thailand,Southeast Asia
+THN,Northern Thailand,Southeast Asia,TNE,Northeastern Thailand,Southeast Asia
+THN,Northern Thailand,Southeast Asia,THC,Central Thailand,Southeast Asia
+TNE,Northeastern Thailand,Southeast Asia,THC,Central Thailand,Southeast Asia
+TNE,Northeastern Thailand,Southeast Asia,THE,Eastern Thailand,Southeast Asia
+THW,Western Thailand,Southeast Asia,THC,Central Thailand,Southeast Asia
+THW,Western Thailand,Southeast Asia,THS,Southern Thailand,Southeast Asia
+THC,Central Thailand,Southeast Asia,THE,Eastern Thailand,Southeast Asia
+THC,Central Thailand,Southeast Asia,THB,Bangkok,Southeast Asia
+THE,Eastern Thailand,Southeast Asia,THB,Bangkok,Southeast Asia
+VNE,Northeast Vietnam,Southeast Asia,YUN,Yunnan,East Asia
+VNE,Northeast Vietnam,Southeast Asia,VNW,Northwest Vietnam,Southeast Asia
+VNE,Northeast Vietnam,Southeast Asia,RVN,Red River Delta,Southeast Asia
+VNW,Northwest Vietnam,Southeast Asia,YUN,Yunnan,East Asia
+VNW,Northwest Vietnam,Southeast Asia,LAO,Laos,Southeast Asia
+VNW,Northwest Vietnam,Southeast Asia,RVN,Red River Delta,Southeast Asia
+VNW,Northwest Vietnam,Southeast Asia,NCV,North Central Coastal Vietnam,Southeast Asia
+RVN,Red River Delta,Southeast Asia,NCV,North Central Coastal Vietnam,Southeast Asia
+NCV,North Central Coastal Vietnam,Southeast Asia,LAO,Laos,Southeast Asia
+NCV,North Central Coastal Vietnam,Southeast Asia,SCV,South Central Coastal Vietnam,Southeast Asia
+SCV,South Central Coastal Vietnam,Southeast Asia,CHV,Central Vietnam Highlands,Southeast Asia
+SCV,South Central Coastal Vietnam,Southeast Asia,LAO,Laos,Southeast Asia
+SCV,South Central Coastal Vietnam,Southeast Asia,VSE,Southeast Vietnam,Southeast Asia
+VSE,Southeast Vietnam,Southeast Asia,KHM,Cambodia,Southeast Asia
+VSE,Southeast Vietnam,Southeast Asia,CHV,Central Vietnam Highlands,Southeast Asia
+VSE,Southeast Vietnam,Southeast Asia,MVN,Mekong River Delta,Southeast Asia
+MVN,Mekong River Delta,Southeast Asia,KHM,Cambodia,Southeast Asia
+KHM,Cambodia,Southeast Asia,LAO,Laos,Southeast Asia
+KHM,Cambodia,Southeast Asia,TNE,Northeastern Thailand,Southeast Asia
+KHM,Cambodia,Southeast Asia,THE,Eastern Thailand,Southeast Asia
+NLZ,Northern Luzon,Southeast Asia,CLZ,Central Luzon,Southeast Asia
+CLZ,Central Luzon,Southeast Asia,PCR,Philippines National Capital Region,Southeast Asia
+CLZ,Central Luzon,Southeast Asia,CBZ,Calabarzon,Southeast Asia
+CBZ,Calabarzon,Southeast Asia,MRP,Mimaropa,Southeast Asia
+CBZ,Calabarzon,Southeast Asia,BCL,Bicol,Southeast Asia
+BCL,Bicol,Southeast Asia,EVS,Eastern Visayas,Southeast Asia
+MRP,Mimaropa,Southeast Asia,WVS,Western Visayas,Southeast Asia
+MRP,Mimaropa,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
+WVS,Western Visayas,Southeast Asia,EVS,Eastern Visayas,Southeast Asia
+EVS,Eastern Visayas,Southeast Asia,EMD,Southeast Mindanao,Southeast Asia
+EMD,Southeast Mindanao,Southeast Asia,BSM,Bangsamoro,Southeast Asia
+EMD,Southeast Mindanao,Southeast Asia,WMD,Northwestern Mindanao,Southeast Asia
+BSM,Bangsamoro,Southeast Asia,WMD,Northwestern Mindanao,Southeast Asia
+BSM,Bangsamoro,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
