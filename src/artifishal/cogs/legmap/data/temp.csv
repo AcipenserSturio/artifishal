@@ -28,6 +28,7 @@ NCY,Northern Cyprus,West Asia,MTR,Mediterranean Turkey,West Asia
 ESS,East Spain,Southern Europe,BIS,Balearic Islands,Southern Europe
 SOI,South Italy,Southern Europe,SIC,Sicily,Southern Europe
 SIC,Sicily,Southern Europe,MLT,Malta,Southern Europe
+SIC,Sicily,Southern Europe,TUN,Tunisia,Northern Africa
 CTI,Central Italy,Southern Europe,COS,Corsica,Western Europe
 COS,Corsica,Western Europe,SAR,Sardinia,Southern Europe
 GOT,Götaland,Northern Europe,DEN,Denmark,Northern Europe
@@ -81,8 +82,8 @@ MUI,North Maluku,Southeast Asia,STI,Central Sulawesi,Southeast Asia
 MUI,North Maluku,Southeast Asia,MAI,Maluku,Southeast Asia
 SNI,South Sulawesi,Southeast Asia,NTI,East Nusa Tenggara,Southeast Asia
 FL,Florida,Southern United States,CUB,Cuba,Caribbean
-FL,Florida,Southern United States,BHS,The Bahamas,Caribbean
-CUB,Cuba,Caribbean,BHS,The Bahamas,Caribbean
+FL,Florida,Southern United States,BHS,The Bahamas,North Atlantic
+CUB,Cuba,Caribbean,BHS,The Bahamas,North Atlantic
 CUB,Cuba,Caribbean,CYI,Cayman Islands,Caribbean
 HDF,Hauts-de-France,Western Europe,SEE,South East England,Northern Europe
 AK,Alaska,Western United States,FER,Far Eastern Russia,North Asia
@@ -94,6 +95,22 @@ TWN,Northern Taiwan,East Asia,TWS,Southern Taiwan,East Asia
 TWS,Southern Taiwan,East Asia,FUJ,Fujian,East Asia
 TWS,Southern Taiwan,East Asia,NLZ,Northern Luzon,Southeast Asia
 GND,Guangdong,East Asia,HIN,Hainan,East Asia
+JAM,Jamaica,Caribbean,RCR,Región Caribe,North South America
+NS,Nova Scotia,Canada,PE,Prince Edward Island,Canada
+CUB,Cuba,Caribbean,XA,Xalapa,Mexico
+SOI,South Italy,Southern Europe,ALB,Albania,Southern Europe
+SAR,Sardinia,Southern Europe,TUN,Tunisia,Northern Africa
+NCY,Northern Cyprus,West Asia,WSY,Western Syria,West Asia
+PAC,Provence-Alpes-Côte d'Azur,Western Europe,COS,Corsica,Western Europe
+BIS,Balearic Islands,Southern Europe,SAR,Sardinia,Southern Europe
+BIS,Balearic Islands,Southern Europe,DZC,Central Algeria,Northern Africa
+NIR,Northern Ireland,Northern Europe,IOM,Isle of Man,Northern Europe
+IRE,Ireland,Northern Europe,IOM,Isle of Man,Northern Europe
+CYM,Wales,Northern Europe,IOM,Isle of Man,Northern Europe
+CYM,Wales,Northern Europe,IRE,Ireland,Northern Europe
+SWE,South West England,Northern Europe,BCI,British Channel Islands,Northern Europe
+,,,,,
+,,,,,
 BRN,Brunei,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
 KII,East Kalimantan,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
 KUI,North Kalimantan,Southeast Asia,SMY,Sabah & Sarawak,Southeast Asia
@@ -164,7 +181,7 @@ NB,New Brunswick,Canada,QC,Québec,Canada
 NB,New Brunswick,Canada,ME,Maine,Northeastern United States
 NB,New Brunswick,Canada,NS,Nova Scotia,Canada
 NL,Newfoundland and Labrador,Canada,QC,Québec,Canada
-NL,Newfoundland and Labrador,Canada,SPM,Saint Pierre and Miquelon,Western Europe
+NL,Newfoundland and Labrador,Canada,SPM,Saint Pierre and Miquelon,North Atlantic
 NWT,Northwest Territories,Canada,NU,Nunavut,Canada
 NWT,Northwest Territories,Canada,YT,Yukon,Canada
 NWT,Northwest Territories,Canada,SK,Saskatchewan,Canada
@@ -287,7 +304,7 @@ MS,Mississippi,Southern United States,TN,Tennessee,Southern United States
 NC,North Carolina,Southern United States,TN,Tennessee,Southern United States
 NC,North Carolina,Southern United States,SC,South Carolina,Southern United States
 NC,North Carolina,Southern United States,VA,Virginia,Southern United States
-NC,North Carolina,Southern United States,BMU,Bermuda,Caribbean
+NC,North Carolina,Southern United States,BMU,Bermuda,North Atlantic
 OK,Oklahoma,Southern United States,TX,Texas,Southern United States
 TN,Tennessee,Southern United States,VA,Virginia,Southern United States
 TX,Texas,Southern United States,MR,Monterrey,Mexico
@@ -298,12 +315,12 @@ BVI,British Virgin Islands,Caribbean,UVI,U.S. Virgin Islands,Caribbean
 MEX,Estado de México,Mexico,GLJ,Guadalajara,Mexico
 MEX,Estado de México,Mexico,MXC,Mexico City,Mexico
 MEX,Estado de México,Mexico,MR,Monterrey,Mexico
-MEX,Estado de México,Mexico,XA,Xalapa (XA),Mexico
+MEX,Estado de México,Mexico,XA,Xalapa,Mexico
 GLJ,Guadalajara,Mexico,MR,Monterrey,Mexico
-MXC,Mexico City,Mexico,XA,Xalapa (XA),Mexico
-MR,Monterrey,Mexico,XA,Xalapa (XA),Mexico
-XA,Xalapa (XA),Mexico,GUA,Guatemala,Central America
-XA,Xalapa (XA),Mexico,BIZ,Belize,Central America
+MXC,Mexico City,Mexico,XA,Xalapa,Mexico
+MR,Monterrey,Mexico,XA,Xalapa,Mexico
+XA,Xalapa,Mexico,GUA,Guatemala,Central America
+XA,Xalapa,Mexico,BIZ,Belize,Central America
 BIZ,Belize,Central America,GUA,Guatemala,Central America
 CRC,Costa Rica,Central America,PAN,Panama,Central America
 CRC,Costa Rica,Central America,NCA,Nicaragua,Central America
